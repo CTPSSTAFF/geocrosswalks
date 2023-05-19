@@ -1,0 +1,352 @@
+GEOID20,TOWNID,TOWN,COUNTY_NUM,COUNTY_NAME,MASSDOT_DISTRICT,RPA,MPO,RTA,MBTA,MBTA_MFZONING,MAPC_COMM_TYPE,MAPC_COMM_SUBTYPE
+2502300170,1,Abington,023,Plymouth,5,OCPC,Old Colony,BAT,Extended,Commuter Rail,Developing Suburbs,Maturing New England Towns
+2501700380,2,Acton,017,Middlesex,3,MAPC,Boston Region,LRTA,Extended,Commuter Rail,Maturing Suburbs,Established Suburbs and Cape Cod Towns
+2500500520,3,Acushnet,005,Bristol,5,SRPEDD,Southeast Mass,SRTA,Not MBTA,NA,Developing Suburbs,Maturing New England Towns
+2500300555,4,Adams,003,Berkshire,1,BCRPC,Berkshire,BRTA,Not MBTA,NA,Developing Suburbs,Maturing New England Towns
+2501300840,5,Agawam,013,Hampden,2,PVPC,Pioneer Valley,PVTA,Not MBTA,NA,Developing Suburbs,Maturing New England Towns
+2500300975,6,Alford,003,Berkshire,1,BCRPC,Berkshire,BRTA,Not MBTA,NA,Rural Towns,Rural Towns
+2500901260,7,Amesbury,009,Essex,4,MVPC,Merrimack Valley,MVRTA,Extended,Adjacent community,Regional Urban Centers,Sub-Regional Urban Centers
+2501501370,8,Amherst,015,Hampshire,2,PVPC,Pioneer Valley,PVTA,Not MBTA,NA,Regional Urban Centers,Sub-Regional Urban Centers
+2500901465,9,Andover,009,Essex,4,MVPC,Merrimack Valley,MVRTA,Extended,Commuter Rail,Developing Suburbs,Maturing New England Towns
+2501701605,10,Arlington,017,Middlesex,4,MAPC,Boston Region,None (MBTA),Core (14),Adjacent community,Inner Core,Streetcar Suburbs
+2502701885,11,Ashburnham,027,Worcester,3,MRPC,Montachusett,MART,Extended,Adjacent small town,Developing Suburbs,Country Suburbs
+2501701955,12,Ashby,017,Middlesex,3,MRPC,Montachusett,MART,Extended,Adjacent small town,Rural Towns,Rural Towns
+2501102095,13,Ashfield,011,Franklin,1,FCPD,Franklin,FRTA,Not MBTA,NA,Rural Towns,Rural Towns
+2501702130,14,Ashland,017,Middlesex,3,MAPC,Boston Region,MWRTA,Extended,Commuter Rail,Maturing Suburbs,Established Suburbs and Cape Cod Towns
+2502702480,15,Athol,027,Worcester,2,MRPC,Montachusett,MART,Not MBTA,NA,Developing Suburbs,Maturing New England Towns
+2500502690,16,Attleboro,005,Bristol,5,SRPEDD,Southeast Mass,GATRA,Extended,Commuter Rail,Regional Urban Centers,Sub-Regional Urban Centers
+2502702760,17,Auburn,027,Worcester,3,CMRPC,Central Mass,WRTA,Extended,Adjacent community,Developing Suburbs,Maturing New England Towns
+2502102935,18,Avon,021,Norfolk,5,OCPC,Old Colony,BAT,Not MBTA,NA,Maturing Suburbs,Mature Suburban Towns
+2501703005,19,Ayer,017,Middlesex,3,MRPC,Montachusett,MART,Extended,Commuter Rail,Developing Suburbs,Maturing New England Towns
+2500103690,20,Barnstable,001,Barnstable,5,CCC,Cape Cod,CCRTA,Not MBTA,NA,Maturing Suburbs,Established Suburbs and Cape Cod Towns
+2502703740,21,Barre,027,Worcester,2,CMRPC,Central Mass,WRTA/MART,Not MBTA,NA,Developing Suburbs,Country Suburbs
+2500304545,22,Becket,003,Berkshire,1,BCRPC,Berkshire,BRTA,Not MBTA,NA,Rural Towns,Rural Towns
+2501704615,23,Bedford,017,Middlesex,4,MAPC,Boston Region,None (MBTA),Core (51),Adjacent community,Maturing Suburbs,Established Suburbs and Cape Cod Towns
+2501504825,24,Belchertown,015,Hampshire,2,PVPC,Pioneer Valley,PVTA,Not MBTA,NA,Developing Suburbs,Country Suburbs
+2502104930,25,Bellingham,021,Norfolk,3,MAPC,Boston Region,GATRA,Extended,Adjacent community,Developing Suburbs,Maturing New England Towns
+2501705070,26,Belmont,017,Middlesex,4,MAPC,Boston Region,None (MBTA),Core (14),Commuter Rail,Inner Core,Streetcar Suburbs
+2500505280,27,Berkley,005,Bristol,5,SRPEDD,Southeast Mass,GATRA,Extended,Adjacent small town,Developing Suburbs,Country Suburbs
+2502705490,28,Berlin,027,Worcester,3,CMRPC,Central Mass,WRTA,Not MBTA,NA,Developing Suburbs,Country Suburbs
+2501105560,29,Bernardston,011,Franklin,2,FCPD,Franklin,FRTA,Not MBTA,NA,Rural Towns,Rural Towns
+2500905595,30,Beverly,009,Essex,4,MAPC,Boston Region,None (MBTA),Core (51),Commuter Rail,Regional Urban Centers,Sub-Regional Urban Centers
+2501705805,31,Billerica,017,Middlesex,4,NMCOG,Northern Middlesex,LRTA,Extended,Commuter Rail,Maturing Suburbs,Established Suburbs and Cape Cod Towns
+2502706015,32,Blackstone,027,Worcester,3,CMRPC,Central Mass,None,Not MBTA,NA,Developing Suburbs,Maturing New England Towns
+2501306085,33,Blandford,013,Hampden,1,PVPC,Pioneer Valley,FRTA,Not MBTA,NA,Rural Towns,Rural Towns
+2502706365,34,Bolton,027,Worcester,3,MAPC,Boston Region,MART,Not MBTA,NA,Developing Suburbs,Country Suburbs
+2502507000,35,Boston,025,Suffolk,6,MAPC,Boston Region,None (MBTA),Core (14),Boston,Inner Core,Metro Core Communities
+2500107175,36,Bourne,001,Barnstable,5,CCC,Cape Cod,CCRTA,Extended (2016),Adjacent small town,Maturing Suburbs,Established Suburbs and Cape Cod Towns
+2501707350,37,Boxborough,017,Middlesex,3,MAPC,Boston Region,MART,Extended,Adjacent small town,Developing Suburbs,Country Suburbs
+2500907420,38,Boxford,009,Essex,4,MVPC,Merrimack Valley,MVRTA,Extended,Adjacent small town,Developing Suburbs,Country Suburbs
+2502707525,39,Boylston,027,Worcester,3,CMRPC,Central Mass,WRTA,Not MBTA,NA,Developing Suburbs,Country Suburbs
+2502107740,40,Braintree,021,Norfolk,6,MAPC,Boston Region,None (MBTA),Core (51),Rapid Transit,Maturing Suburbs,Mature Suburban Towns
+2500107980,41,Brewster,001,Barnstable,5,CCC,Cape Cod,CCRTA,Not MBTA,NA,Maturing Suburbs,Established Suburbs and Cape Cod Towns
+2502308130,42,Bridgewater,023,Plymouth,5,OCPC,Old Colony,BAT,Extended,Commuter Rail,Developing Suburbs,Maturing New England Towns
+2501308470,43,Brimfield,013,Hampden,2,PVPC,Pioneer Valley,WRTA,Not MBTA,NA,Rural Towns,Rural Towns
+2502309000,44,Brockton,023,Plymouth,5,OCPC,Old Colony,BAT,Extended,Commuter Rail,Regional Urban Centers,Major Regional Urban Centers
+2502709105,45,Brookfield,027,Worcester,3,CMRPC,Central Mass,WRTA,Not MBTA,NA,Developing Suburbs,Maturing New England Towns
+2502109175,46,Brookline,021,Norfolk,6,MAPC,Boston Region,None (MBTA),Core (14),Rapid Transit,Inner Core,Streetcar Suburbs
+2501109595,47,Buckland,011,Franklin,1,FCPD,Franklin,FRTA,Not MBTA,NA,Rural Towns,Rural Towns
+2501709840,48,Burlington,017,Middlesex,4,MAPC,Boston Region,None (MBTA),Core (51),Adjacent community,Maturing Suburbs,Mature Suburban Towns
+2501711000,49,Cambridge,017,Middlesex,6,MAPC,Boston Region,None (MBTA),Core (14),Rapid Transit,Inner Core,Metro Core Communities
+2502111315,50,Canton,021,Norfolk,6,MAPC,Boston Region,None (MBTA),Core (51),Commuter Rail,Maturing Suburbs,Established Suburbs and Cape Cod Towns
+2501711525,51,Carlisle,017,Middlesex,4,MAPC,Boston Region,LRTA,Extended,Adjacent small town,Developing Suburbs,Country Suburbs
+2502311665,52,Carver,023,Plymouth,5,SRPEDD,Southeast Mass,GATRA,Extended,Adjacent small town,Developing Suburbs,Maturing New England Towns
+2501112505,53,Charlemont,011,Franklin,1,FCPD,Franklin,FRTA,Not MBTA,NA,Rural Towns,Rural Towns
+2502712715,54,Charlton,027,Worcester,3,CMRPC,Central Mass,WRTA,Not MBTA,NA,Developing Suburbs,Country Suburbs
+2500112995,55,Chatham,001,Barnstable,5,CCC,Cape Cod,CCRTA,Not MBTA,NA,Maturing Suburbs,Established Suburbs and Cape Cod Towns
+2501713135,56,Chelmsford,017,Middlesex,4,NMCOG,Northern Middlesex,LRTA,Extended,Adjacent community,Maturing Suburbs,Established Suburbs and Cape Cod Towns
+2502513205,57,Chelsea,025,Suffolk,6,MAPC,Boston Region,None (MBTA),Core (14),Rapid Transit,Inner Core,Metro Core Communities
+2500313345,58,Cheshire,003,Berkshire,1,BCRPC,Berkshire,BRTA,Not MBTA,NA,Developing Suburbs,Maturing New England Towns
+2501313485,59,Chester,013,Hampden,1,PVPC,Pioneer Valley,FRTA,Not MBTA,NA,Rural Towns,Rural Towns
+2501513590,60,Chesterfield,015,Hampshire,1,PVPC,Pioneer Valley,FRTA,Not MBTA,NA,Rural Towns,Rural Towns
+2501313660,61,Chicopee,013,Hampden,2,PVPC,Pioneer Valley,PVTA,Not MBTA,NA,Regional Urban Centers,Sub-Regional Urban Centers
+2500713800,62,Chilmark,007,Dukes,5,MVC,Martha's Vineyard,VTA,Not MBTA,NA,Rural Towns,Rural Towns
+2500314010,63,Clarksburg,003,Berkshire,1,BCRPC,Berkshire,BRTA,Not MBTA,NA,Rural Towns,Rural Towns
+2502714395,64,Clinton,027,Worcester,3,MRPC,Montachusett,WRTA,Not MBTA,NA,Regional Urban Centers,Sub-Regional Urban Centers
+2502114640,65,Cohasset,021,Norfolk,5,MAPC,Boston Region,None (MBTA),Core (51),Commuter Rail,Developing Suburbs,Country Suburbs
+2501114885,66,Colrain,011,Franklin,1,FCPD,Franklin,FRTA,Not MBTA,NA,Rural Towns,Rural Towns
+2501715060,67,Concord,017,Middlesex,4,MAPC,Boston Region,None (MBTA),Core (51),Commuter Rail,Maturing Suburbs,Established Suburbs and Cape Cod Towns
+2501115200,68,Conway,011,Franklin,1,FCPD,Franklin,FRTA,Not MBTA,NA,Rural Towns,Rural Towns
+2501516040,69,Cummington,015,Hampshire,1,PVPC,Pioneer Valley,FRTA,Not MBTA,NA,Rural Towns,Rural Towns
+2500316180,70,Dalton,003,Berkshire,1,BCRPC,Berkshire,BRTA,Not MBTA,NA,Developing Suburbs,Maturing New England Towns
+2500916250,71,Danvers,009,Essex,4,MAPC,Boston Region,None (MBTA),Core (51),Adjacent community,Maturing Suburbs,Mature Suburban Towns
+2500516425,72,Dartmouth,005,Bristol,5,SRPEDD,Southeast Mass,SRTA,Not MBTA,NA,Developing Suburbs,Maturing New England Towns
+2502116495,73,Dedham,021,Norfolk,6,MAPC,Boston Region,None (MBTA),Core (51),Commuter Rail,Maturing Suburbs,Mature Suburban Towns
+2501116670,74,Deerfield,011,Franklin,2,FCPD,Franklin,FRTA,Not MBTA,NA,Developing Suburbs,Maturing New England Towns
+2500116775,75,Dennis,001,Barnstable,5,CCC,Cape Cod,CCRTA,Not MBTA,NA,Maturing Suburbs,Established Suburbs and Cape Cod Towns
+2500516950,76,Dighton,005,Bristol,5,SRPEDD,Southeast Mass,GATRA,Not MBTA,NA,Developing Suburbs,Country Suburbs
+2502717300,77,Douglas,027,Worcester,3,CMRPC,Central Mass,WRTA,Not MBTA,NA,Developing Suburbs,Country Suburbs
+2502117405,78,Dover,021,Norfolk,6,MAPC,Boston Region,MWRTA,Core (51),Adjacent small town,Developing Suburbs,Country Suburbs
+2501717475,79,Dracut,017,Middlesex,4,NMCOG,Northern Middlesex,LRTA,Extended,Adjacent community,Developing Suburbs,Maturing New England Towns
+2502717685,80,Dudley,027,Worcester,3,CMRPC,Central Mass,WRTA,Not MBTA,NA,Developing Suburbs,Maturing New England Towns
+2501717825,81,Dunstable,017,Middlesex,3,NMCOG,Northern Middlesex,LRTA,Not MBTA,NA,Developing Suburbs,Country Suburbs
+2502317895,82,Duxbury,023,Plymouth,5,MAPC/OCPC,Old Colony,GATRA,Extended,Adjacent community,Maturing Suburbs,Established Suburbs and Cape Cod Towns
+2502318455,83,East Bridgewater,023,Plymouth,5,OCPC,Old Colony,BAT,Extended,Adjacent community,Developing Suburbs,Maturing New England Towns
+2502718560,84,East Brookfield,027,Worcester,3,CMRPC,Central Mass,WRTA,Not MBTA,NA,Developing Suburbs,Maturing New England Towns
+2501319645,85,East Longmeadow,013,Hampden,2,PVPC,Pioneer Valley,PVTA,Not MBTA,NA,Developing Suburbs,Maturing New England Towns
+2500119295,86,Eastham,001,Barnstable,5,CCC,Cape Cod,CCRTA,Not MBTA,NA,Maturing Suburbs,Established Suburbs and Cape Cod Towns
+2501519370,87,Easthampton,015,Hampshire,2,PVPC,Pioneer Valley,PVTA,Not MBTA,NA,Regional Urban Centers,Sub-Regional Urban Centers
+2500520100,88,Easton,005,Bristol,5,OCPC,Old Colony,BAT,Extended,Adjacent community,Developing Suburbs,Maturing New England Towns
+2500721150,89,Edgartown,007,Dukes,5,MVC,Martha's Vineyard,VTA,Not MBTA,NA,Developing Suburbs,Maturing New England Towns
+2500321360,90,Egremont,003,Berkshire,1,BCRPC,Berkshire,BRTA,Not MBTA,NA,Rural Towns,Rural Towns
+2501121780,91,Erving,011,Franklin,2,FCPD,Franklin,FRTA,Not MBTA,NA,Rural Towns,Rural Towns
+2500921850,92,Essex,009,Essex,4,MAPC,Boston Region,CATA,Extended,Adjacent small town,Developing Suburbs,Maturing New England Towns
+2501721990,93,Everett,017,Middlesex,4,MAPC,Boston Region,None (MBTA),Core (14),Rapid Transit,Inner Core,Metro Core Communities
+2500522130,94,Fairhaven,005,Bristol,5,SRPEDD,Southeast Mass,SRTA,Not MBTA,NA,Developing Suburbs,Maturing New England Towns
+2500523000,95,Fall River,005,Bristol,5,SRPEDD,Southeast Mass,SRTA,Extended (2022),Commuter Rail,Regional Urban Centers,Major Regional Urban Centers
+2500123105,96,Falmouth,001,Barnstable,5,CCC,Cape Cod,CCRTA,Not MBTA,NA,Maturing Suburbs,Established Suburbs and Cape Cod Towns
+2502723875,97,Fitchburg,027,Worcester,3,MRPC,Montachusett,MART,Extended,Commuter Rail,Regional Urban Centers,Sub-Regional Urban Centers
+2500324120,98,Florida,003,Berkshire,1,BCRPC,Berkshire,BRTA,Not MBTA,NA,Rural Towns,Rural Towns
+2502124820,99,Foxborough,021,Norfolk,5,MAPC,Boston Region,GATRA,Extended,Adjacent community,Developing Suburbs,Maturing New England Towns
+2501724960,100,Framingham,017,Middlesex,3,MAPC,Boston Region,MWRTA,Core (51),Commuter Rail,Regional Urban Centers,Sub-Regional Urban Centers
+2502125172,101,Franklin,021,Norfolk,3,MAPC,Boston Region,GATRA,Extended,Commuter Rail,Developing Suburbs,Maturing New England Towns
+2500525240,102,Freetown,005,Bristol,5,SRPEDD,Southeast Mass,SRTA,Extended,Commuter Rail,Developing Suburbs,Country Suburbs
+2502725485,103,Gardner,027,Worcester,3,MRPC,Montachusett,MART,Not MBTA,NA,Regional Urban Centers,Sub-Regional Urban Centers
+2500701585,104,Aquinnah,007,Dukes,5,MVC,Martha's Vineyard,VTA,Not MBTA,NA,Rural Towns,Rural Towns
+2500925625,105,Georgetown,009,Essex,4,MVPC,Merrimack Valley,MVRTA,Extended,Adjacent community,Developing Suburbs,Country Suburbs
+2501125730,106,Gill,011,Franklin,2,FCPD,Franklin,FRTA,Not MBTA,NA,Rural Towns,Rural Towns
+2500926150,107,Gloucester,009,Essex,4,MAPC,Boston Region,CATA,Extended,Commuter Rail,Regional Urban Centers,Sub-Regional Urban Centers
+2501526290,108,Goshen,015,Hampshire,1,PVPC,Pioneer Valley,FRTA,Not MBTA,NA,Rural Towns,Rural Towns
+2500726325,109,Gosnold,007,Dukes,5,MVC,Martha's Vineyard,None,Not MBTA,NA,Rural Towns,Rural Towns
+2502726430,110,Grafton,027,Worcester,3,CMRPC,Central Mass,WRTA,Extended,Adjacent community,Developing Suburbs,Maturing New England Towns
+2501526535,111,Granby,015,Hampshire,2,PVPC,Pioneer Valley,PVTA,Not MBTA,NA,Developing Suburbs,Country Suburbs
+2501326675,112,Granville,013,Hampden,1,PVPC,Pioneer Valley,FRTA,Not MBTA,NA,Rural Towns,Rural Towns
+2500326815,113,Great Barrington,003,Berkshire,1,BCRPC,Berkshire,BRTA,Not MBTA,NA,Developing Suburbs,Maturing New England Towns
+2501127060,114,Greenfield,011,Franklin,2,FCPD,Franklin,FRTA,Not MBTA,NA,Developing Suburbs,Maturing New England Towns
+2501727480,115,Groton,017,Middlesex,3,MRPC,Montachusett,LRTA,Extended,Adjacent small town,Developing Suburbs,Country Suburbs
+2500927620,116,Groveland,009,Essex,4,MVPC,Merrimack Valley,MVRTA,Extended,Adjacent small town,Maturing Suburbs,Established Suburbs and Cape Cod Towns
+2501527690,117,Hadley,015,Hampshire,2,PVPC,Pioneer Valley,PVTA,Not MBTA,NA,Developing Suburbs,Maturing New England Towns
+2502327795,118,Halifax,023,Plymouth,5,OCPC,Old Colony,None (MBTA),Extended,Commuter Rail,Developing Suburbs,Maturing New England Towns
+2500927900,119,Hamilton,009,Essex,4,MAPC,Boston Region,CATA,Core (51),Commuter Rail,Developing Suburbs,Maturing New England Towns
+2501328075,120,Hampden,013,Hampden,2,PVPC,Pioneer Valley,PVTA,Not MBTA,NA,Developing Suburbs,Country Suburbs
+2500328180,121,Hancock,003,Berkshire,1,BCRPC,Berkshire,None,Not MBTA,NA,Rural Towns,Rural Towns
+2502328285,122,Hanover,023,Plymouth,5,MAPC/OCPC,Old Colony,GATRA,Extended,Adjacent community,Developing Suburbs,Maturing New England Towns
+2502328495,123,Hanson,023,Plymouth,5,OCPC,Old Colony,BAT,Extended,Commuter Rail,Developing Suburbs,Maturing New England Towns
+2502728740,124,Hardwick,027,Worcester,2,CMRPC,Central Mass,MART,Not MBTA,NA,Rural Towns,Rural Towns
+2502728950,125,Harvard,027,Worcester,3,MRPC,Montachusett,MART,Extended,Adjacent small town,Developing Suburbs,Country Suburbs
+2500129020,126,Harwich,001,Barnstable,5,CCC,Cape Cod,CCRTA,Not MBTA,NA,Developing Suburbs,Maturing New England Towns
+2501529265,127,Hatfield,015,Hampshire,2,PVPC,Pioneer Valley,FRTA,Not MBTA,NA,Developing Suburbs,Country Suburbs
+2500929405,128,Haverhill,009,Essex,4,MVPC,Merrimack Valley,MVRTA,Extended,Commuter Rail,Regional Urban Centers,Sub-Regional Urban Centers
+2501129475,129,Hawley,011,Franklin,1,FCPD,Franklin,FRTA,Not MBTA,NA,Rural Towns,Rural Towns
+2501129650,130,Heath,011,Franklin,1,FCPD,Franklin,FRTA,Not MBTA,NA,Rural Towns,Rural Towns
+2502330210,131,Hingham,023,Plymouth,5,MAPC,Boston Region,None (MBTA),Core (51),Commuter Rail,Maturing Suburbs,Established Suburbs and Cape Cod Towns
+2500330315,132,Hinsdale,003,Berkshire,1,BCRPC,Berkshire,BRTA,Not MBTA,NA,Rural Towns,Rural Towns
+2502130455,133,Holbrook,021,Norfolk,5,MAPC,Boston Region,None (MBTA),Core (51),Commuter Rail,Maturing Suburbs,Mature Suburban Towns
+2502730560,134,Holden,027,Worcester,3,CMRPC,Central Mass,WRTA,Extended,Adjacent community,Developing Suburbs,Maturing New England Towns
+2501330665,135,Holland,013,Hampden,2,PVPC,Pioneer Valley,WRTA,Not MBTA,NA,Developing Suburbs,Maturing New England Towns
+2501730700,136,Holliston,017,Middlesex,3,MAPC,Boston Region,MWRTA,Extended,Adjacent community,Developing Suburbs,Maturing New England Towns
+2501330840,137,Holyoke,013,Hampden,2,PVPC,Pioneer Valley,PVTA,Not MBTA,NA,Regional Urban Centers,Sub-Regional Urban Centers
+2502730945,138,Hopedale,027,Worcester,3,CMRPC,Central Mass,MWRTA,Not MBTA,NA,Developing Suburbs,Maturing New England Towns
+2501731085,139,Hopkinton,017,Middlesex,3,MAPC,Boston Region,MWRTA,Extended,Adjacent community,Developing Suburbs,Country Suburbs
+2502731435,140,Hubbardston,027,Worcester,3,MRPC,Montachusett,MART,Not MBTA,NA,Rural Towns,Rural Towns
+2501731540,141,Hudson,017,Middlesex,3,MAPC,Boston Region,MWRTA,Not MBTA,NA,Developing Suburbs,Maturing New England Towns
+2502331645,142,Hull,023,Plymouth,5,MAPC,Boston Region,None (MBTA),Core (51),Adjacent community,Maturing Suburbs,Mature Suburban Towns
+2501531785,143,Huntington,015,Hampshire,1,PVPC,Pioneer Valley,FRTA,Not MBTA,NA,Rural Towns,Rural Towns
+2500932310,144,Ipswich,009,Essex,4,MAPC,Boston Region,CATA,Extended,Commuter Rail,Developing Suburbs,Maturing New England Towns
+2502333220,145,Kingston,023,Plymouth,5,OCPC,Old Colony,GATRA,Extended,Commuter Rail,Developing Suburbs,Maturing New England Towns
+2502333920,146,Lakeville,023,Plymouth,5,SRPEDD,Southeast Mass,GATRA,Extended,Adjacent small town,Developing Suburbs,Maturing New England Towns
+2502734165,147,Lancaster,027,Worcester,3,MRPC,Montachusett,MART,Extended,Adjacent small town,Developing Suburbs,Maturing New England Towns
+2500334340,148,Lanesborough,003,Berkshire,1,BCRPC,Berkshire,BRTA,Not MBTA,NA,Rural Towns,Rural Towns
+2500934550,149,Lawrence,009,Essex,4,MVPC,Merrimack Valley,MVRTA,Extended,Commuter Rail,Regional Urban Centers,Major Regional Urban Centers
+2500334655,150,Lee,003,Berkshire,1,BCRPC,Berkshire,BRTA,Not MBTA,NA,Developing Suburbs,Maturing New England Towns
+2502734795,151,Leicester,027,Worcester,3,CMRPC,Central Mass,WRTA,Extended,Adjacent small town,Developing Suburbs,Maturing New England Towns
+2500334970,152,Lenox,003,Berkshire,1,BCRPC,Berkshire,BRTA,Not MBTA,NA,Developing Suburbs,Maturing New England Towns
+2502735075,153,Leominster,027,Worcester,3,MRPC,Montachusett,MART,Extended,Commuter Rail,Regional Urban Centers,Sub-Regional Urban Centers
+2501135180,154,Leverett,011,Franklin,2,FCPD,Franklin,PVTA,Not MBTA,NA,Rural Towns,Rural Towns
+2501735215,155,Lexington,017,Middlesex,4,MAPC,Boston Region,None (MBTA),Core (51),Adjacent community,Maturing Suburbs,Established Suburbs and Cape Cod Towns
+2501135285,156,Leyden,011,Franklin,2,FCPD,Franklin,FRTA,Not MBTA,NA,Rural Towns,Rural Towns
+2501735425,157,Lincoln,017,Middlesex,4,MAPC,Boston Region,None (MBTA),Core (51),Commuter Rail,Maturing Suburbs,Established Suburbs and Cape Cod Towns
+2501735950,158,Littleton,017,Middlesex,3,MAPC,Boston Region,MART,Extended,Commuter Rail,Developing Suburbs,Maturing New England Towns
+2501336300,159,Longmeadow,013,Hampden,2,PVPC,Pioneer Valley,PVTA,Not MBTA,NA,Maturing Suburbs,Mature Suburban Towns
+2501737000,160,Lowell,017,Middlesex,4,NMCOG,Northern Middlesex,LRTA,Extended,Commuter Rail,Regional Urban Centers,Major Regional Urban Centers
+2501337175,161,Ludlow,013,Hampden,2,PVPC,Pioneer Valley,PVTA,Not MBTA,NA,Developing Suburbs,Maturing New England Towns
+2502737420,162,Lunenburg,027,Worcester,3,MRPC,Montachusett,MART,Extended,Adjacent small town,Developing Suburbs,Country Suburbs
+2500937490,163,Lynn,009,Essex,4,MAPC,Boston Region,None (MBTA),Core (51),Commuter Rail,Regional Urban Centers,Sub-Regional Urban Centers
+2500937560,164,Lynnfield,009,Essex,4,MAPC,Boston Region,None (MBTA),Core (51),Adjacent community,Maturing Suburbs,Established Suburbs and Cape Cod Towns
+2501737875,165,Malden,017,Middlesex,4,MAPC,Boston Region,None (MBTA),Core (14),Rapid Transit,Inner Core,Metro Core Communities
+2500937995,166,Manchester-by-the-Sea,009,Essex,4,MAPC,Boston Region,None (MBTA),Core (51),Commuter Rail,Developing Suburbs,Maturing New England Towns
+2500538225,167,Mansfield,005,Bristol,5,SRPEDD,Southeast Mass,GATRA,Extended,Commuter Rail,Maturing Suburbs,Established Suburbs and Cape Cod Towns
+2500938400,168,Marblehead,009,Essex,4,MAPC,Boston Region,None (MBTA),Core (51),Adjacent community,Maturing Suburbs,Mature Suburban Towns
+2502338540,169,Marion,023,Plymouth,5,SRPEDD,Southeast Mass,None,Not MBTA,NA,Developing Suburbs,Maturing New England Towns
+2501738715,170,Marlborough,017,Middlesex,3,MAPC,Boston Region,MWRTA,Extended,Adjacent community,Regional Urban Centers,Sub-Regional Urban Centers
+2502338855,171,Marshfield,023,Plymouth,5,MAPC,Boston Region,GATRA,Extended,Adjacent community,Maturing Suburbs,Established Suburbs and Cape Cod Towns
+2500139100,172,Mashpee,001,Barnstable,5,CCC,Cape Cod,CCRTA,Not MBTA,NA,Maturing Suburbs,Established Suburbs and Cape Cod Towns
+2502339450,173,Mattapoisett,023,Plymouth,5,SRPEDD,Southeast Mass,SRTA,Not MBTA,NA,Developing Suburbs,Maturing New England Towns
+2501739625,174,Maynard,017,Middlesex,3,MAPC,Boston Region,LRTA,Extended,Adjacent community,Maturing Suburbs,Mature Suburban Towns
+2502139765,175,Medfield,021,Norfolk,3,MAPC,Boston Region,None (MBTA),Core (51),Adjacent community,Maturing Suburbs,Established Suburbs and Cape Cod Towns
+2501739835,176,Medford,017,Middlesex,4,MAPC,Boston Region,None (MBTA),Core (14),Rapid Transit,Inner Core,Streetcar Suburbs
+2502139975,177,Medway,021,Norfolk,3,MAPC,Boston Region,GATRA,Extended,Adjacent community,Developing Suburbs,Maturing New England Towns
+2501740115,178,Melrose,017,Middlesex,4,MAPC,Boston Region,None (MBTA),Core (51),Commuter Rail,Inner Core,Streetcar Suburbs
+2502740255,179,Mendon,027,Worcester,3,CMRPC,Central Mass,None,Not MBTA,NA,Developing Suburbs,Country Suburbs
+2500940430,180,Merrimac,009,Essex,4,MVPC,Merrimack Valley,MVRTA,Extended,Adjacent small town,Developing Suburbs,Maturing New England Towns
+2500940710,181,Methuen,009,Essex,4,MVPC,Merrimack Valley,MVRTA,Extended,Adjacent community,Regional Urban Centers,Sub-Regional Urban Centers
+2502340850,182,Middleborough,023,Plymouth,5,SRPEDD,Southeast Mass,GATRA,Extended,Commuter Rail,Developing Suburbs,Country Suburbs
+2501540990,183,Middlefield,015,Hampshire,1,PVPC,Pioneer Valley,FRTA,Not MBTA,NA,Rural Towns,Rural Towns
+2500941095,184,Middleton,009,Essex,4,MAPC,Boston Region,None (MBTA),Core (51),Adjacent community,Developing Suburbs,Maturing New England Towns
+2502741165,185,Milford,027,Worcester,3,MAPC,Boston Region,MWRTA,Not MBTA,NA,Regional Urban Centers,Sub-Regional Urban Centers
+2502741340,186,Millbury,027,Worcester,3,CMRPC,Central Mass,WRTA,Extended,Adjacent community,Developing Suburbs,Maturing New England Towns
+2502141515,187,Millis,021,Norfolk,3,MAPC,Boston Region,None (MBTA),Extended,Adjacent community,Developing Suburbs,Maturing New England Towns
+2502741585,188,Millville,027,Worcester,3,CMRPC,Central Mass,None,Not MBTA,NA,Developing Suburbs,Country Suburbs
+2502141690,189,Milton,021,Norfolk,6,MAPC,Boston Region,None (MBTA),Core (14),Rapid Transit,Maturing Suburbs,Established Suburbs and Cape Cod Towns
+2501142040,190,Monroe,011,Franklin,1,FCPD,Franklin,None,Not MBTA,NA,Rural Towns,Rural Towns
+2501342145,191,Monson,013,Hampden,2,PVPC,Pioneer Valley,None,Not MBTA,NA,Developing Suburbs,Country Suburbs
+2501142285,192,Montague,011,Franklin,2,FCPD,Franklin,FRTA,Not MBTA,NA,Developing Suburbs,Maturing New England Towns
+2500342460,193,Monterey,003,Berkshire,1,BCRPC,Berkshire,BRTA,Not MBTA,NA,Rural Towns,Rural Towns
+2501342530,194,Montgomery,013,Hampden,1,PVPC,Pioneer Valley,FRTA,Not MBTA,NA,Rural Towns,Rural Towns
+2500343300,195,Mount Washington,003,Berkshire,1,BCRPC,Berkshire,BRTA,Not MBTA,NA,Rural Towns,Rural Towns
+2500943580,196,Nahant,009,Essex,4,MAPC,Boston Region,None (MBTA),Core (51),Adjacent small town,Maturing Suburbs,Mature Suburban Towns
+2501943790,197,Nantucket,019,Nantucket,5,NPEDC,Nantucket,NRTA,Not MBTA,NA,Developing Suburbs,Maturing New England Towns
+2501743895,198,Natick,017,Middlesex,3,MAPC,Boston Region,MWRTA,Core (51),Commuter Rail,Maturing Suburbs,Mature Suburban Towns
+2502144105,199,Needham,021,Norfolk,6,MAPC,Boston Region,None (MBTA),Core (51),Commuter Rail,Maturing Suburbs,Mature Suburban Towns
+2500344385,200,New Ashford,003,Berkshire,1,BCRPC,Berkshire,BRTA,Not MBTA,NA,Rural Towns,Rural Towns
+2500545000,201,New Bedford,005,Bristol,5,SRPEDD,Southeast Mass,SRTA,Extended (2022),Commuter Rail,Regional Urban Centers,Major Regional Urban Centers
+2502745105,202,New Braintree,027,Worcester,2,CMRPC,Central Mass,WRTA,Not MBTA,NA,Rural Towns,Rural Towns
+2500345420,203,New Marlborough,003,Berkshire,1,BCRPC,Berkshire,None,Not MBTA,NA,Rural Towns,Rural Towns
+2501145490,204,New Salem,011,Franklin,2,FCPD,Franklin,FRTA,Not MBTA,NA,Rural Towns,Rural Towns
+2500945175,205,Newbury,009,Essex,4,MVPC,Merrimack Valley,MVRTA,Extended,Adjacent small town,Developing Suburbs,Country Suburbs
+2500945245,206,Newburyport,009,Essex,4,MVPC,Merrimack Valley,MVRTA,Extended,Commuter Rail,Regional Urban Centers,Sub-Regional Urban Centers
+2501745560,207,Newton,017,Middlesex,6,MAPC,Boston Region,None (MBTA),Core (14),Rapid Transit,Inner Core,Streetcar Suburbs
+2502146050,208,Norfolk,021,Norfolk,5,MAPC,Boston Region,GATRA,Core (51),Commuter Rail,Developing Suburbs,Maturing New England Towns
+2500346225,209,North Adams,003,Berkshire,1,BCRPC,Berkshire,BRTA,Not MBTA,NA,Regional Urban Centers,Sub-Regional Urban Centers
+2500946365,210,North Andover,009,Essex,4,MVPC,Merrimack Valley,MVRTA,Extended,Adjacent community,Developing Suburbs,Maturing New England Towns
+2500546598,211,North Attleborough,005,Bristol,5,SRPEDD,Southeast Mass,GATRA,Extended,Adjacent community,Developing Suburbs,Maturing New England Towns
+2502747135,212,North Brookfield,027,Worcester,3,CMRPC,Central Mass,WRTA,Not MBTA,NA,Developing Suburbs,Maturing New England Towns
+2501748955,213,North Reading,017,Middlesex,4,MAPC,Boston Region,MVRTA,Extended,Adjacent community,Maturing Suburbs,Established Suburbs and Cape Cod Towns
+2501546330,214,Northampton,015,Hampshire,2,PVPC,Pioneer Valley,PVTA,Not MBTA,NA,Regional Urban Centers,Sub-Regional Urban Centers
+2502746820,215,Northborough,027,Worcester,3,CMRPC,Central Mass,WRTA,Extended,Adjacent community,Developing Suburbs,Maturing New England Towns
+2502746925,216,Northbridge,027,Worcester,3,CMRPC,Central Mass,WRTA,Extended,Adjacent community,Developing Suburbs,Maturing New England Towns
+2501147835,217,Northfield,011,Franklin,2,FCPD,Franklin,FRTA,Not MBTA,NA,Rural Towns,Rural Towns
+2500549970,218,Norton,005,Bristol,5,SRPEDD,Southeast Mass,GATRA,Extended,Adjacent community,Developing Suburbs,Maturing New England Towns
+2502350145,219,Norwell,023,Plymouth,5,MAPC,Boston Region,None (MBTA),Extended,Adjacent community,Developing Suburbs,Country Suburbs
+2502150250,220,Norwood,021,Norfolk,5,MAPC,Boston Region,None (MBTA),Core (51),Commuter Rail,Regional Urban Centers,Sub-Regional Urban Centers
+2500750390,221,Oak Bluffs,007,Dukes,5,MVC,Martha's Vineyard,VTA,Not MBTA,NA,Developing Suburbs,Maturing New England Towns
+2502750670,222,Oakham,027,Worcester,3,CMRPC,Central Mass,WRTA,Not MBTA,NA,Rural Towns,Rural Towns
+2501151265,223,Orange,011,Franklin,2,FCPD,Franklin,FRTA,Not MBTA,NA,Developing Suburbs,Maturing New England Towns
+2500151440,224,Orleans,001,Barnstable,5,CCC,Cape Cod,CCRTA,Not MBTA,NA,Maturing Suburbs,Established Suburbs and Cape Cod Towns
+2500351580,225,Otis,003,Berkshire,1,BCRPC,Berkshire,BRTA,Not MBTA,NA,Rural Towns,Rural Towns
+2502751825,226,Oxford,027,Worcester,3,CMRPC,Central Mass,WRTA,Not MBTA,NA,Developing Suburbs,Maturing New England Towns
+2501352144,227,Palmer,013,Hampden,2,PVPC,Pioneer Valley,PVTA,Not MBTA,NA,Developing Suburbs,Maturing New England Towns
+2502752420,228,Paxton,027,Worcester,3,CMRPC,Central Mass,WRTA,Extended,Adjacent small town,Developing Suburbs,Country Suburbs
+2500952490,229,Peabody,009,Essex,4,MAPC,Boston Region,None (MBTA),Core (51),Adjacent community,Regional Urban Centers,Sub-Regional Urban Centers
+2501552560,230,Pelham,015,Hampshire,2,PVPC,Pioneer Valley,PVTA,Not MBTA,NA,Rural Towns,Rural Towns
+2502352630,231,Pembroke,023,Plymouth,5,MAPC/OCPC,Old Colony,GATRA,Extended,Adjacent community,Maturing Suburbs,Established Suburbs and Cape Cod Towns
+2501752805,232,Pepperell,017,Middlesex,3,NMCOG,Northern Middlesex,LRTA,Not MBTA,NA,Developing Suburbs,Country Suburbs
+2500353050,233,Peru,003,Berkshire,1,BCRPC,Berkshire,BRTA,Not MBTA,NA,Rural Towns,Rural Towns
+2502753120,234,Petersham,027,Worcester,2,MRPC,Montachusett,FRTA,Not MBTA,NA,Rural Towns,Rural Towns
+2502753225,235,Phillipston,027,Worcester,2,MRPC,Montachusett,FRTA/MART,Not MBTA,NA,Rural Towns,Rural Towns
+2500353960,236,Pittsfield,003,Berkshire,1,BCRPC,Berkshire,BRTA,Not MBTA,NA,Regional Urban Centers,Sub-Regional Urban Centers
+2501554030,237,Plainfield,015,Hampshire,1,PVPC,Pioneer Valley,FRTA,Not MBTA,NA,Rural Towns,Rural Towns
+2502154100,238,Plainville,021,Norfolk,5,SRPEDD,Southeast Mass,GATRA,Not MBTA,NA,Developing Suburbs,Maturing New England Towns
+2502354310,239,Plymouth,023,Plymouth,5,OCPC,Old Colony,GATRA,Extended,Adjacent community,Developing Suburbs,Maturing New England Towns
+2502354415,240,Plympton,023,Plymouth,5,OCPC,Old Colony,None (MBTA),Extended,Adjacent small town,Developing Suburbs,Country Suburbs
+2502755395,241,Princeton,027,Worcester,3,CMRPC,Central Mass,WRTA,Extended,Adjacent small town,Rural Towns,Rural Towns
+2500155500,242,Provincetown,001,Barnstable,5,CCC,Cape Cod,CCRTA,Not MBTA,NA,Regional Urban Centers,Sub-Regional Urban Centers
+2502155745,243,Quincy,021,Norfolk,6,MAPC,Boston Region,None (MBTA),Core (51),Rapid Transit,Regional Urban Centers,Sub-Regional Urban Centers
+2502156000,244,Randolph,021,Norfolk,6,MAPC,Boston Region,None (MBTA),Core (51),Commuter Rail,Maturing Suburbs,Mature Suburban Towns
+2500556060,245,Raynham,005,Bristol,5,SRPEDD,Southeast Mass,GATRA,Extended,Adjacent community,Developing Suburbs,Maturing New England Towns
+2501756130,246,Reading,017,Middlesex,4,MAPC,Boston Region,None (MBTA),Core (51),Commuter Rail,Maturing Suburbs,Mature Suburban Towns
+2500556375,247,Rehoboth,005,Bristol,5,SRPEDD,Southeast Mass,GATRA,Extended,Adjacent small town,Developing Suburbs,Country Suburbs
+2502556585,248,Revere,025,Suffolk,4,MAPC,Boston Region,None (MBTA),Core (14),Rapid Transit,Inner Core,Metro Core Communities
+2500356795,249,Richmond,003,Berkshire,1,BCRPC,Berkshire,BRTA,Not MBTA,NA,Rural Towns,Rural Towns
+2502357600,250,Rochester,023,Plymouth,5,SRPEDD,Southeast Mass,None (MBTA),Extended,Adjacent small town,Developing Suburbs,Country Suburbs
+2502357775,251,Rockland,023,Plymouth,5,MAPC,Boston Region,BAT,Extended,Adjacent community,Developing Suburbs,Maturing New England Towns
+2500957880,252,Rockport,009,Essex,4,MAPC,Boston Region,CATA,Extended,Commuter Rail,Developing Suburbs,Maturing New England Towns
+2501158335,253,Rowe,011,Franklin,1,FCPD,Franklin,FRTA,Not MBTA,NA,Rural Towns,Rural Towns
+2500958405,254,Rowley,009,Essex,4,MVPC,Merrimack Valley,MVRTA,Extended,Commuter Rail,Developing Suburbs,Country Suburbs
+2502758580,255,Royalston,027,Worcester,2,MRPC,Montachusett,MART,Not MBTA,NA,Rural Towns,Rural Towns
+2501358650,256,Russell,013,Hampden,1,PVPC,Pioneer Valley,FRTA,Not MBTA,NA,Rural Towns,Rural Towns
+2502758825,257,Rutland,027,Worcester,3,CMRPC,Central Mass,WRTA,Not MBTA,NA,Developing Suburbs,Maturing New England Towns
+2500959105,258,Salem,009,Essex,4,MAPC,Boston Region,None (MBTA),Core (51),Commuter Rail,Regional Urban Centers,Sub-Regional Urban Centers
+2500959245,259,Salisbury,009,Essex,4,MVPC,Merrimack Valley,MVRTA,Extended,Adjacent community,Developing Suburbs,Maturing New England Towns
+2500359665,260,Sandisfield,003,Berkshire,1,BCRPC,Berkshire,None,Not MBTA,NA,Rural Towns,Rural Towns
+2500159735,261,Sandwich,001,Barnstable,5,CCC,Cape Cod,CCRTA,Not MBTA,NA,Maturing Suburbs,Established Suburbs and Cape Cod Towns
+2500960015,262,Saugus,009,Essex,4,MAPC,Boston Region,None (MBTA),Core (51),Adjacent community,Maturing Suburbs,Mature Suburban Towns
+2500360225,263,Savoy,003,Berkshire,1,BCRPC,Berkshire,BRTA,Not MBTA,NA,Rural Towns,Rural Towns
+2502360330,264,Scituate,023,Plymouth,5,MAPC,Boston Region,GATRA,Extended,Commuter Rail,Maturing Suburbs,Established Suburbs and Cape Cod Towns
+2500560645,265,Seekonk,005,Bristol,5,SRPEDD,Southeast Mass,GATRA,Extended,Adjacent community,Developing Suburbs,Maturing New England Towns
+2502160785,266,Sharon,021,Norfolk,5,MAPC,Boston Region,None (MBTA),Core (51),Commuter Rail,Maturing Suburbs,Established Suburbs and Cape Cod Towns
+2500361065,267,Sheffield,003,Berkshire,1,BCRPC,Berkshire,BRTA,Not MBTA,NA,Rural Towns,Rural Towns
+2501161135,268,Shelburne,011,Franklin,1,FCPD,Franklin,FRTA,Not MBTA,NA,Rural Towns,Rural Towns
+2501761380,269,Sherborn,017,Middlesex,3,MAPC,Boston Region,MWRTA,Extended,Adjacent small town,Developing Suburbs,Country Suburbs
+2501761590,270,Shirley,017,Middlesex,3,MRPC,Montachusett,MART,Extended,Commuter Rail,Developing Suburbs,Maturing New England Towns
+2502761800,271,Shrewsbury,027,Worcester,3,CMRPC,Central Mass,WRTA,Extended,Adjacent community,Developing Suburbs,Maturing New England Towns
+2501161905,272,Shutesbury,011,Franklin,2,FCPD,Franklin,FRTA,Not MBTA,NA,Rural Towns,Rural Towns
+2500562430,273,Somerset,005,Bristol,5,SRPEDD,Southeast Mass,SRTA,Not MBTA,NA,Regional Urban Centers,Sub-Regional Urban Centers
+2501762535,274,Somerville,017,Middlesex,4,MAPC,Boston Region,None (MBTA),Core (14),Rapid Transit,Inner Core,Metro Core Communities
+2501564145,275,South Hadley,015,Hampshire,2,PVPC,Pioneer Valley,PVTA,Not MBTA,NA,Developing Suburbs,Maturing New England Towns
+2501562745,276,Southampton,015,Hampshire,2,PVPC,Pioneer Valley,FRTA,Not MBTA,NA,Developing Suburbs,Country Suburbs
+2502763165,277,Southborough,027,Worcester,3,MAPC,Boston Region,MWRTA,Extended,Commuter Rail,Maturing Suburbs,Established Suburbs and Cape Cod Towns
+2502763345,278,Southbridge,027,Worcester,3,CMRPC,Central Mass,WRTA,Not MBTA,NA,Regional Urban Centers,Sub-Regional Urban Centers
+2501365825,279,Southwick,013,Hampden,2,PVPC,Pioneer Valley,FRTA,Not MBTA,NA,Developing Suburbs,Country Suburbs
+2502766105,280,Spencer,027,Worcester,3,CMRPC,Central Mass,WRTA,Not MBTA,NA,Developing Suburbs,Maturing New England Towns
+2501367000,281,Springfield,013,Hampden,2,PVPC,Pioneer Valley,PVTA,Not MBTA,NA,Regional Urban Centers,Major Regional Urban Centers
+2502767385,282,Sterling,027,Worcester,3,MRPC,Montachusett,MART,Extended,Adjacent small town,Developing Suburbs,Country Suburbs
+2500367595,283,Stockbridge,003,Berkshire,1,BCRPC,Berkshire,BRTA,Not MBTA,NA,Rural Towns,Rural Towns
+2501767665,284,Stoneham,017,Middlesex,4,MAPC,Boston Region,None (MBTA),Core (51),Adjacent community,Maturing Suburbs,Mature Suburban Towns
+2502167945,285,Stoughton,021,Norfolk,5,MAPC/OCPC,Old Colony,BAT,Extended,Commuter Rail,Maturing Suburbs,Mature Suburban Towns
+2501768050,286,Stow,017,Middlesex,3,MAPC,Boston Region,MART,Extended,Adjacent small town,Developing Suburbs,Country Suburbs
+2502768155,287,Sturbridge,027,Worcester,3,CMRPC,Central Mass,WRTA,Not MBTA,NA,Developing Suburbs,Maturing New England Towns
+2501768260,288,Sudbury,017,Middlesex,3,MAPC,Boston Region,MWRTA,Extended,Adjacent community,Maturing Suburbs,Established Suburbs and Cape Cod Towns
+2501168400,289,Sunderland,011,Franklin,2,FCPD,Franklin,PVTA,Not MBTA,NA,Developing Suburbs,Maturing New England Towns
+2502768610,290,Sutton,027,Worcester,3,CMRPC,Central Mass,WRTA,Extended,Adjacent small town,Developing Suburbs,Country Suburbs
+2500968645,291,Swampscott,009,Essex,4,MAPC,Boston Region,None (MBTA),Core (51),Commuter Rail,Maturing Suburbs,Mature Suburban Towns
+2500568750,292,Swansea,005,Bristol,5,SRPEDD,Southeast Mass,SRTA,Not MBTA,NA,Developing Suburbs,Maturing New England Towns
+2500569170,293,Taunton,005,Bristol,5,SRPEDD,Southeast Mass,GATRA,Extended,Commuter Rail,Regional Urban Centers,Sub-Regional Urban Centers
+2502769275,294,Templeton,027,Worcester,2,MRPC,Montachusett,MART,Not MBTA,NA,Developing Suburbs,Country Suburbs
+2501769415,295,Tewksbury,017,Middlesex,4,NMCOG,Northern Middlesex,LRTA,Extended,Adjacent community,Maturing Suburbs,Established Suburbs and Cape Cod Towns
+2500769940,296,Tisbury,007,Dukes,5,MVC,Martha's Vineyard,VTA,Not MBTA,NA,Developing Suburbs,Maturing New England Towns
+2501370045,297,Tolland,013,Hampden,1,PVPC,Pioneer Valley,None,Not MBTA,NA,Rural Towns,Rural Towns
+2500970150,298,Topsfield,009,Essex,4,MAPC,Boston Region,None (MBTA),Core (51),Adjacent small town,Developing Suburbs,Country Suburbs
+2501770360,299,Townsend,017,Middlesex,3,MRPC,Montachusett,LRTA,Extended,Adjacent small town,Developing Suburbs,Maturing New England Towns
+2500170605,300,Truro,001,Barnstable,5,CCC,Cape Cod,CCRTA,Not MBTA,NA,Rural Towns,Rural Towns
+2501771025,301,Tyngsborough,017,Middlesex,4,NMCOG,Northern Middlesex,LRTA,Extended,Adjacent community,Developing Suburbs,Country Suburbs
+2500371095,302,Tyringham,003,Berkshire,1,BCRPC,Berkshire,None,Not MBTA,NA,Rural Towns,Rural Towns
+2502771480,303,Upton,027,Worcester,3,CMRPC,Central Mass,None (MBTA),Extended,Adjacent small town,Developing Suburbs,Country Suburbs
+2502771620,304,Uxbridge,027,Worcester,3,CMRPC,Central Mass,None,Not MBTA,NA,Developing Suburbs,Country Suburbs
+2501772215,305,Wakefield,017,Middlesex,4,MAPC,Boston Region,None (MBTA),Core (51),Commuter Rail,Maturing Suburbs,Mature Suburban Towns
+2501372390,306,Wales,013,Hampden,2,PVPC,Pioneer Valley,WRTA,Not MBTA,NA,Rural Towns,Rural Towns
+2502172495,307,Walpole,021,Norfolk,5,MAPC,Boston Region,None (MBTA),Core (51),Commuter Rail,Developing Suburbs,Maturing New England Towns
+2501772600,308,Waltham,017,Middlesex,4,MAPC,Boston Region,None (MBTA),Core (51),Commuter Rail,Inner Core,Streetcar Suburbs
+2501572880,309,Ware,015,Hampshire,2,PVPC,Pioneer Valley,PVTA,Not MBTA,NA,Developing Suburbs,Maturing New England Towns
+2502372985,310,Wareham,023,Plymouth,5,SRPEDD,Southeast Mass,GATRA,Extended,Adjacent community,Developing Suburbs,Maturing New England Towns
+2502773090,311,Warren,027,Worcester,2,CMRPC,Central Mass,WRTA,Not MBTA,NA,Developing Suburbs,Country Suburbs
+2501173265,312,Warwick,011,Franklin,2,FCPD,Franklin,FRTA,Not MBTA,NA,Rural Towns,Rural Towns
+2500373335,313,Washington,003,Berkshire,1,BCRPC,Berkshire,BRTA,Not MBTA,NA,Rural Towns,Rural Towns
+2501773440,314,Watertown,017,Middlesex,6,MAPC,Boston Region,None (MBTA),Core (14),Adjacent community,Inner Core,Streetcar Suburbs
+2501773790,315,Wayland,017,Middlesex,3,MAPC,Boston Region,MWRTA,Extended,Adjacent community,Maturing Suburbs,Established Suburbs and Cape Cod Towns
+2502773895,316,Webster,027,Worcester,3,CMRPC,Central Mass,WRTA,Not MBTA,NA,Regional Urban Centers,Sub-Regional Urban Centers
+2502174175,317,Wellesley,021,Norfolk,6,MAPC,Boston Region,MWRTA,Core (51),Commuter Rail,Maturing Suburbs,Established Suburbs and Cape Cod Towns
+2500174385,318,Wellfleet,001,Barnstable,5,CCC,Cape Cod,CCRTA,Not MBTA,NA,Maturing Suburbs,Established Suburbs and Cape Cod Towns
+2501174525,319,Wendell,011,Franklin,2,FCPD,Franklin,FRTA,Not MBTA,NA,Rural Towns,Rural Towns
+2500974595,320,Wenham,009,Essex,4,MAPC,Boston Region,None (MBTA),Core (51),Commuter Rail,Developing Suburbs,Maturing New England Towns
+2502775155,321,West Boylston,027,Worcester,3,CMRPC,Central Mass,WRTA,Extended,Adjacent community,Developing Suburbs,Maturing New England Towns
+2502375260,322,West Bridgewater,023,Plymouth,5,OCPC,Old Colony,BAT,Extended,Adjacent small town,Developing Suburbs,Maturing New England Towns
+2502775400,323,West Brookfield,027,Worcester,2,CMRPC,Central Mass,WRTA,Not MBTA,NA,Developing Suburbs,Country Suburbs
+2500977150,324,West Newbury,009,Essex,4,MVPC,Merrimack Valley,MVRTA,Extended,Adjacent small town,Developing Suburbs,Country Suburbs
+2501377890,325,West Springfield,013,Hampden,2,PVPC,Pioneer Valley,PVTA,Not MBTA,NA,Regional Urban Centers,Sub-Regional Urban Centers
+2500377990,326,West Stockbridge,003,Berkshire,1,BCRPC,Berkshire,None,Not MBTA,NA,Rural Towns,Rural Towns
+2500778235,327,West Tisbury,007,Dukes,5,MVC,Martha's Vineyard,VTA,Not MBTA,NA,Rural Towns,Rural Towns
+2502775015,328,Westborough,027,Worcester,3,CMRPC,Central Mass,WRTA,Extended,Commuter Rail,Developing Suburbs,Maturing New England Towns
+2501376030,329,Westfield,013,Hampden,2,PVPC,Pioneer Valley,PVTA,Not MBTA,NA,Regional Urban Centers,Sub-Regional Urban Centers
+2501776135,330,Westford,017,Middlesex,3,NMCOG,Northern Middlesex,LRTA,Extended,Adjacent community,Developing Suburbs,Country Suburbs
+2501576380,331,Westhampton,015,Hampshire,2,PVPC,Pioneer Valley,FRTA,Not MBTA,NA,Rural Towns,Rural Towns
+2502777010,332,Westminster,027,Worcester,3,MRPC,Montachusett,MART,Extended,Adjacent small town,Developing Suburbs,Country Suburbs
+2501777255,333,Weston,017,Middlesex,6,MAPC,Boston Region,MWRTA,Core (51),Commuter Rail,Maturing Suburbs,Established Suburbs and Cape Cod Towns
+2500577570,334,Westport,005,Bristol,5,SRPEDD,Southeast Mass,SRTA,Not MBTA,NA,Developing Suburbs,Maturing New England Towns
+2502178690,335,Westwood,021,Norfolk,6,MAPC,Boston Region,None (MBTA),Core (51),Commuter Rail,Maturing Suburbs,Established Suburbs and Cape Cod Towns
+2502178972,336,Weymouth,021,Norfolk,6,MAPC,Boston Region,None (MBTA),Core (51),Commuter Rail,Maturing Suburbs,Mature Suburban Towns
+2501179110,337,Whately,011,Franklin,2,FCPD,Franklin,FRTA,Not MBTA,NA,Rural Towns,Rural Towns
+2502379530,338,Whitman,023,Plymouth,5,OCPC,Old Colony,BAT,Extended,Commuter Rail,Developing Suburbs,Maturing New England Towns
+2501379740,339,Wilbraham,013,Hampden,2,PVPC,Pioneer Valley,PVTA,Not MBTA,NA,Developing Suburbs,Maturing New England Towns
+2501579915,340,Williamsburg,015,Hampshire,1,PVPC,Pioneer Valley,PVTA,Not MBTA,NA,Rural Towns,Rural Towns
+2500379985,341,Williamstown,003,Berkshire,1,BCRPC,Berkshire,BRTA,Not MBTA,NA,Developing Suburbs,Maturing New England Towns
+2501780230,342,Wilmington,017,Middlesex,4,MAPC,Boston Region,None (MBTA),Core (51),Commuter Rail,Maturing Suburbs,Established Suburbs and Cape Cod Towns
+2502780405,343,Winchendon,027,Worcester,2,MRPC,Montachusett,MART,Not MBTA,NA,Developing Suburbs,Country Suburbs
+2501780510,344,Winchester,017,Middlesex,4,MAPC,Boston Region,None (MBTA),Core (51),Commuter Rail,Maturing Suburbs,Mature Suburban Towns
+2500380685,345,Windsor,003,Berkshire,1,BCRPC,Berkshire,BRTA,Not MBTA,NA,Rural Towns,Rural Towns
+2502581005,346,Winthrop,025,Suffolk,6,MAPC,Boston Region,None (MBTA),Core (51),Adjacent community,Inner Core,Streetcar Suburbs
+2501781035,347,Woburn,017,Middlesex,4,MAPC,Boston Region,None (MBTA),Core (51),Commuter Rail,Regional Urban Centers,Sub-Regional Urban Centers
+2502782000,348,Worcester,027,Worcester,3,CMRPC,Central Mass,WRTA,Extended,Commuter Rail,Regional Urban Centers,Major Regional Urban Centers
+2501582175,349,Worthington,015,Hampshire,1,PVPC,Pioneer Valley,FRTA,Not MBTA,NA,Rural Towns,Rural Towns
+2502182315,350,Wrentham,021,Norfolk,5,MAPC,Boston Region,GATRA,Extended,Adjacent community,Developing Suburbs,Country Suburbs
+2500182525,351,Yarmouth,001,Barnstable,5,CCC,Cape Cod,CCRTA,Not MBTA,NA,Maturing Suburbs,Established Suburbs and Cape Cod Towns

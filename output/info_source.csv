@@ -1,0 +1,17 @@
+Field,Example,Description,Source
+GEOID20,2501724960,TIGER Country Subdivision GEOID,"TIGER: MA County Subdivision, 2020"
+TOWNID,100,"State-derived id. Generally alphabetical, with exceptions for name changes.",https://www.mass.gov/info-details/massgis-data-2020-us-census-towns
+TOWN,Framingham,Town name for presentation,https://www.mass.gov/info-details/massgis-data-2020-us-census-towns
+COUNTY_NUM,017,FIPS county number,"TIGER: MA County Subdivision, 2020"
+COUNTY_NAME,Middlesex,"County name without ""County""",https://www.mass.gov/info-details/massgis-data-2020-us-census-towns
+MASSDOT_DISTRICT,3,MassDOT District,"https://www.mass.gov/info-details/find-your-highway-district-office
+https://massgov.github.io/DOT/DistrictandTowns.html
+https://massgov.github.io/DOT/DistrictandTowns.xlsx"
+RPA,MAPC,Regional Planning Agency,https://www.mass.gov/info-details/massgis-data-regional-planning-agencies
+MPO,Boston Region,Metropolitan Planning Organization,"https://www.mass.gov/info-details/massgis-data-regional-planning-agencies, with OCPC/MAPC munis entered into a single MPO"
+RTA,MWRTA,Regional Transportation Authroties: Municpalities that are part of no RTA and are in the MBTA service area are noted differently than municipalities that are not member of any transit-providing agency.,https://www.mass.gov/info-details/public-transportation-in-massachusetts
+MBTA,Core (51),"MBTA Core Municipalities: 14 and 51 community definitions from MGL161A and other named communities, plus additions over time.","https://malegislature.gov/Laws/GeneralLaws/PartI/TitleXXII/Chapter161A/Section1
+https://mbta-massdot.opendata.arcgis.com/datasets/MassDOT::mbta-extended-service-area/about"
+MBTA_MFZONING,Commuter Rail,Community categories from the Multifamily Zoning Law,https://www.mass.gov/info-details/multi-family-zoning-requirement-for-mbta-communities
+MAPC_COMM_TYPE,Regional Urban Centers,MAPC Community Types (2008),http://www.mapc.org/wp-content/uploads/2017/09/Massachusetts-Community-Types-Summary-July_2008.pdf
+MAPC_COMM_SUBTYPE,Sub-Regional Urban Centers,MAPC Community Subtype (2008),http://www.mapc.org/wp-content/uploads/2017/09/Massachusetts-Community-Types-Summary-July_2008.pdf
