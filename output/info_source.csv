@@ -1,6 +1,6 @@
 Field,Example,Description,Source
-GEOID20,2501724960,TIGER Country Subdivision GEOID,"TIGER: MA County Subdivision, 2020"
 TOWNID,100,"State-derived id. Generally alphabetical, with exceptions for name changes.",https://www.mass.gov/info-details/massgis-data-2020-us-census-towns
+GEOID20,2501724960,TIGER Country Subdivision GEOID,"TIGER: MA County Subdivision, 2020"
 TOWN,Framingham,Town name for presentation,https://www.mass.gov/info-details/massgis-data-2020-us-census-towns
 COUNTY_NUM,017,FIPS county number,"TIGER: MA County Subdivision, 2020"
 COUNTY_NAME,Middlesex,"County name without ""County""",https://www.mass.gov/info-details/massgis-data-2020-us-census-towns
@@ -9,7 +9,8 @@ https://massgov.github.io/DOT/DistrictandTowns.html
 https://massgov.github.io/DOT/DistrictandTowns.xlsx"
 RPA,MAPC,Regional Planning Agency,https://www.mass.gov/info-details/massgis-data-regional-planning-agencies
 MPO,Boston Region,Metropolitan Planning Organization,"https://www.mass.gov/info-details/massgis-data-regional-planning-agencies, with OCPC/MAPC munis entered into a single MPO"
-RTA,MWRTA,Regional Transportation Authroties: Municpalities that are part of no RTA and are in the MBTA service area are noted differently than municipalities that are not member of any transit-providing agency.,https://www.mass.gov/info-details/public-transportation-in-massachusetts
+MPO_SUBREGION,MWRC,MPO Subregion,https://www.ctps.org/mpo_communities | http://www.cmrpc.org/community-snapshots.html | https://www.mrpc.org/montachusett-metropolitan-planning-organization-mmpo | https://www.capecodcommission.org/resource-library/file? |url=%2Fdept%2Fcommission%2Fteam%2Frpp%2Frpp_final%2F2018_Cape_Cod_Regional_Policy_Plan_for_web.pdf | https://www.pvpc.org/sites/default/files/images/MPO%20Subregion%202010%20Pop--800.jpg | https://mvpc.org/wp-content/uploads/FInal-MVMPO-FFY-2023-UPWP-8_19_22-Unsigned.pdf | https://frcog.org/wp-content/uploads/2021/04/DRAFT-Franklin-2022-2026-TIP-Narrative.pdf | https://oldcolonyplanning.org/wp-content/uploads/2022/09/Old-Colony-MPO-Local-Signatory-Election-Process-web.pdf | https://srpedd.s3.amazonaws.com/wp-content/uploads/2022/05/03161102/FINAL-SMMPO-MOU-10-19-2021-A.pdf | https://www.mvcommission.org/sites/default/files/docs/MV%20PPP%20March%202017%20Final.pdf
+RTA,MWRTA,Regional Transportation Authorities: Municpalities that are part of no RTA and are in the MBTA service area are noted differently than municipalities that are not member of any transit-providing agency.,https://www.mass.gov/info-details/public-transportation-in-massachusetts
 MBTA,Core (51),"MBTA Core Municipalities: 14 and 51 community definitions from MGL161A and other named communities, plus additions over time.","https://malegislature.gov/Laws/GeneralLaws/PartI/TitleXXII/Chapter161A/Section1
 https://mbta-massdot.opendata.arcgis.com/datasets/MassDOT::mbta-extended-service-area/about"
 MBTA_MFZONING,Commuter Rail,Community categories from the Multifamily Zoning Law,https://www.mass.gov/info-details/multi-family-zoning-requirement-for-mbta-communities

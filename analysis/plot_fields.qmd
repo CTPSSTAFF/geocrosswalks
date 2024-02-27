@@ -33,7 +33,6 @@ info_source <- read_sheet("https://docs.google.com/spreadsheets/d/1ti8Cmagl8GZ_7
 
 write_csv(muni_info, file = "../output/muni_info.csv")
 write_csv(info_source, file = "../output/info_source.csv")
-
 ```
 
 ## Need
@@ -118,6 +117,9 @@ mapview(ma_munis |> summarize(state = "MA") |> st_cast("MULTILINESTRING"),
   mapview(ma_munis |> select(MPO), 
           col.regions = viridis::turbo, layer.name = "MPO",
           hide = TRUE, homebutton = FALSE) +
+    mapview(ma_munis |> select(MPO_SUBREGION), 
+          col.regions = viridis::turbo, layer.name = "MPO Subregion",
+          hide = TRUE, homebutton = FALSE) +
   mapview(ma_munis |> select(RTA), 
           col.regions = viridis::turbo, layer.name = "RTA",
           hide = TRUE, homebutton = FALSE) +
@@ -149,16 +151,13 @@ mapview(ma_munis |> summarize(state = "MA") |> st_cast("MULTILINESTRING"),
 
 ## Questions
 
+-   Checks
+    -   MPO Subregions
+    -   RTA Membership
 -   Other useful fields?
-
-    -   Do other RPA/MPOs have subregions?
-
-    -   Other useful MBTA levels?
-
--   Official sources for RTA membership?
-
+    -   MassDOT Subregions?
+    -   Other-muni derived MassGIS datasets?
+-   Other useful MBTA levels?
 -   RPA vs MPO membership? Only the couple MAPC/OCPC munis?
-
 -   Tracking changes over time?
-
 -   Other "Town Names" that show up in "found" datasets? ('borough' vs 'boro', Manchester vs *-in-the-Sea*)

@@ -18,5 +18,5 @@ library(tidyverse)
 
 ma_muni <- read_rds("./output/ma_muni.rds")
 
-plot(ma_muni, max.plot = 13)
+plot(ma_muni, max.plot = 13, col = "white")
 ```

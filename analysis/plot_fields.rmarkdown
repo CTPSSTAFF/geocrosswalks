@@ -1,0 +1,173 @@
+---
+title: "Creating a Standard Set of Municipal Lookups"
+author: "Steven Andrews, Boston Region MPO"
+date: today
+format: 
+  html:
+    embed-resources: true
+editor: visual
+---
+
+```{r}
+#| warning: false
+#| message: false
+#| echo: false
+library(tidyverse)
+library(mapview)
+mapviewOptions(fgb = FALSE)
+library(googlesheets4)
+library(sf)
+library(gt)
+```
+
+```{r}
+#| echo: false
+#| message: false
+#| results: hide
+#| warning: false
+muni_info <- read_sheet("https://docs.google.com/spreadsheets/d/1ti8Cmagl8GZ_7BV40aj4U5xjV-cTjEKB8LAegFt7XCQ", 
+                        sheet = "town_lookups")
+
+info_source <- read_sheet("https://docs.google.com/spreadsheets/d/1ti8Cmagl8GZ_7BV40aj4U5xjV-cTjEKB8LAegFt7XCQ", 
+                          sheet = "sources", col_types = "c" )
+
+write_csv(muni_info, file = "../output/muni_info.csv")
+write_csv(info_source, file = "../output/info_source.csv")
+```
+
+
+## Need
+
+Work started based on a spreadsheet created by Paul Reim from the Boston Region MPO. This spreadsheet contained a list of municipalities and other information such as the MPO, RPA, and various MBTA service areas among other measures.
+
+The resulting table was taken from that source spreadsheet as much as possible, starting with creating a 2020 county subdivision GEOID and adding and checking columns from that point. Where possible the GEOID was used as a join. Other times the municipality name was used. When those joins failed (Manchester vs Manchester-by-the-Sea), we manually filled in the information.
+
+Recently added fields are those representing MassDOT districts, the types of communities found in the multi-family zoning law, MAPC Community types, and a reworking of the MBTA Service Area fields. We also updated the RTAs based on what we could find online.
+
+The final table contains information about:
+
+
+```{r}
+#| column: screen-inset-shaded
+#| echo: false
+
+read_csv("../output/info_source.csv", col_types = "c") |> gt() |> 
+  cols_width(Field ~ pct(0.125),
+             Example ~ pct(.125),
+             Description ~ pct(0.25),
+             Source ~ pct(0.25))
+```
+
+
+## The Data
+
+The data itself can be reviewed here or downloaded from the repo.
+
+
+```{r}
+#| echo: false 
+#| column: screen-inset-shaded
+muni_info |> DT::datatable(filter = 'top')
+```
+
+
+## Mapping the Data
+
+With this list, we can pull a municipality (county subdivision) dataset that contains 2020 GEOIDs and use that to join in our information.
+
+
+```{r}
+#| results: hide
+#| warning: false
+#| message: false
+#| echo: false
+
+ma_munis <- tigris::county_subdivisions(state = "MA", cb = TRUE, year = 2020) |> 
+  select(GEOID)
+
+ma_munis <- ma_munis |> left_join(muni_info, by = c("GEOID" = "GEOID20"))
+
+saveRDS(ma_munis, file = "../output/ma_muni.rds")
+```
+
+
+You can use the above links to compare the various layers and their accuracy.
+
+::: callout-tip
+The map will load with a state border and the towns visible. Click on the layer selector on the left side of the map to start navigating through layers. All of the legends will show up at first. As you toggle off each layer the legends become more manageable.
+:::
+
+
+```{r}
+#| warning: false
+#| message: false
+#| echo: false
+#| column: screen-inset-shaded
+
+mapviewOptions(leafletHeight = 700)
+
+# This can be better later on. The legends are a mess.
+mapview(ma_munis |> summarize(state = "MA") |> st_cast("MULTILINESTRING"), 
+        color = "black",
+        layer.name = "MA Border", legend = FALSE) +
+  mapview(ma_munis |> select(TOWN), 
+          col.regions = viridis::turbo, layer.name = "Town Name",
+          hide = FALSE, homebutton = FALSE) +
+  mapview(ma_munis |> select(COUNTY_NAME), 
+          col.regions = viridis::turbo, layer.name = "County",
+          hide = TRUE, homebutton = FALSE) +
+  mapview(ma_munis |> select(MASSDOT_DISTRICT), 
+          col.regions = viridis::viridis, layer.name = "MassDOT District",
+          hide = TRUE, homebutton = FALSE) +
+  mapview(ma_munis |> select(RPA), 
+          col.regions = viridis::turbo, layer.name = "RPA",
+          hide = TRUE, homebutton = FALSE) +
+  mapview(ma_munis |> select(MPO), 
+          col.regions = viridis::turbo, layer.name = "MPO",
+          hide = TRUE, homebutton = FALSE) +
+    mapview(ma_munis |> select(MPO_SUBREGION), 
+          col.regions = viridis::turbo, layer.name = "MPO Subregion",
+          hide = TRUE, homebutton = FALSE) +
+  mapview(ma_munis |> select(RTA), 
+          col.regions = viridis::turbo, layer.name = "RTA",
+          hide = TRUE, homebutton = FALSE) +
+  mapview(ma_munis |> select(MBTA), 
+          col.regions = viridis::mako, layer.name = "MBTA Service Area",
+          hide = TRUE, homebutton = FALSE) +
+  mapview(ma_munis |> select(MBTA_MFZONING), 
+          col.regions = viridis::turbo, layer.name = "MBTA Multifamily Zoning",
+          hide = TRUE, homebutton = FALSE) +
+  mapview(ma_munis |> select(MAPC_COMM_TYPE), 
+          col.regions = viridis::turbo, layer.name = "MAPC Community Type",
+          hide = TRUE, homebutton = FALSE) +
+  mapview(ma_munis |> select(MAPC_COMM_SUBTYPE), 
+          col.regions = viridis::turbo, layer.name = "MAPC Community Subtype",
+          hide = TRUE, homebutton = FALSE)
+
+  
+# mapview(ma_munis |> 
+#           select(TOWN,
+#                  COUNTY_NAME, MASSDOT_DISTRICT,
+#                  RPA, MPO, RTA,
+#                  MBTA, MBTA_MFZONING,
+#                  MAPC_COMM_TYPE, MAPC_COMM_SUBTYPE),
+#   burst = TRUE,
+#   col.regions = viridis::turbo, 
+#   hide = TRUE, 
+#   homebutton = FALSE)
+```
+
+
+## Questions
+
+-   Checks
+    -   MPO Subregions
+    -   RTA Membership
+-   Other useful fields?
+    -   MassDOT Subregions?
+    -   Other-muni derived MassGIS datasets?
+-   Other useful MBTA levels?
+-   RPA vs MPO membership? Only the couple MAPC/OCPC munis?
+-   Tracking changes over time?
+-   Other "Town Names" that show up in "found" datasets? ('borough' vs 'boro', Manchester vs *-in-the-Sea*)
+
