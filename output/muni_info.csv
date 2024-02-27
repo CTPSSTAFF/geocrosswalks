@@ -12,7 +12,7 @@ TOWNID,GEOID20,TOWN,COUNTY_NUM,COUNTY_NAME,MASSDOT_DISTRICT,RPA,MPO,MPO_SUBREGIO
 11,2502701885,Ashburnham,027,Worcester,3,MRPC,Montachusett,Montachusett: 2,MART,Extended,Adjacent small town,Developing Suburbs,DS: Country Suburbs
 12,2501701955,Ashby,017,Middlesex,3,MRPC,Montachusett,Montachusett: 2,MART,Extended,Adjacent small town,Rural Towns,Rural Towns
 13,2501102095,Ashfield,011,Franklin,1,FCPD,Franklin,Franklin: West County,FRTA,Not MBTA,NA,Rural Towns,Rural Towns
-14,2501702130,Ashland,017,Middlesex,3,MAPC,Boston Region,Boston Region: MWRC,MWRTA,Extended,Commuter Rail,Maturing Suburbs,MS: Established Suburbs and Cape Cod Towns
+14,2501702130,Ashland,017,Middlesex,3,MAPC,Boston Region,Boston Region: MetroWest,MWRTA,Extended,Commuter Rail,Maturing Suburbs,MS: Established Suburbs and Cape Cod Towns
 15,2502702480,Athol,027,Worcester,2,MRPC,Montachusett,Montachusett: 1,MART,Not MBTA,NA,Developing Suburbs,DS: Maturing New England Towns
 16,2500502690,Attleboro,005,Bristol,5,SRPEDD,Southeast Mass,Southeast Mass: Attleboro,GATRA,Extended,Commuter Rail,Regional Urban Centers,RUC: Sub-RUC
 17,2502702760,Auburn,027,Worcester,3,CMRPC,Central Mass,Central Mass: Southwest,WRTA,Extended,Adjacent community,Developing Suburbs,DS: Maturing New England Towns
@@ -98,7 +98,7 @@ TOWNID,GEOID20,TOWN,COUNTY_NUM,COUNTY_NAME,MASSDOT_DISTRICT,RPA,MPO,MPO_SUBREGIO
 97,2502723875,Fitchburg,027,Worcester,3,MRPC,Montachusett,Montachusett: Fitchburg,MART,Extended,Commuter Rail,Regional Urban Centers,RUC: Sub-RUC
 98,2500324120,Florida,003,Berkshire,1,BCRPC,Berkshire,Berkshire: North,BRTA,Not MBTA,NA,Rural Towns,Rural Towns
 99,2502124820,Foxborough,021,Norfolk,5,MAPC,Boston Region,Boston Region: TRIC,GATRA,Extended,Adjacent community,Developing Suburbs,DS: Maturing New England Towns
-100,2501724960,Framingham,017,Middlesex,3,MAPC,Boston Region,Boston Region: MWRC,MWRTA,Core (51),Commuter Rail,Regional Urban Centers,RUC: Sub-RUC
+100,2501724960,Framingham,017,Middlesex,3,MAPC,Boston Region,Boston Region: MetroWest,MWRTA,Core (51),Commuter Rail,Regional Urban Centers,RUC: Sub-RUC
 101,2502125172,Franklin,021,Norfolk,3,MAPC,Boston Region,Boston Region: SWAP,GATRA,Extended,Commuter Rail,Developing Suburbs,DS: Maturing New England Towns
 102,2500525240,Freetown,005,Bristol,5,SRPEDD,Southeast Mass,Southeast Mass: Bristol,SRTA,Extended,Commuter Rail,Developing Suburbs,DS: Country Suburbs
 103,2502725485,Gardner,027,Worcester,3,MRPC,Montachusett,Montachusett: Gardner,MART,Not MBTA,NA,Regional Urban Centers,RUC: Sub-RUC
@@ -134,7 +134,7 @@ TOWNID,GEOID20,TOWN,COUNTY_NUM,COUNTY_NAME,MASSDOT_DISTRICT,RPA,MPO,MPO_SUBREGIO
 133,2502130455,Holbrook,021,Norfolk,5,MAPC,Boston Region,Boston Region: SSC,None (MBTA),Core (51),Commuter Rail,Maturing Suburbs,MS: Mature Suburban Towns
 134,2502730560,Holden,027,Worcester,3,CMRPC,Central Mass,Central Mass: North,WRTA,Extended,Adjacent community,Developing Suburbs,DS: Maturing New England Towns
 135,2501330665,Holland,013,Hampden,2,PVPC,Pioneer Valley,Pioneer Valley: 4,WRTA,Not MBTA,NA,Developing Suburbs,DS: Maturing New England Towns
-136,2501730700,Holliston,017,Middlesex,3,MAPC,Boston Region,Boston Region: MWRC,MWRTA,Extended,Adjacent community,Developing Suburbs,DS: Maturing New England Towns
+136,2501730700,Holliston,017,Middlesex,3,MAPC,Boston Region,Boston Region: MetroWest,MWRTA,Extended,Adjacent community,Developing Suburbs,DS: Maturing New England Towns
 137,2501330840,Holyoke,013,Hampden,2,PVPC,Pioneer Valley,Pioneer Valley: 1,PVTA,Not MBTA,NA,Regional Urban Centers,RUC: Sub-RUC
 138,2502730945,Hopedale,027,Worcester,3,CMRPC,Central Mass,Central Mass: Southeast,MWRTA,Not MBTA,NA,Developing Suburbs,DS: Maturing New England Towns
 139,2501731085,Hopkinton,017,Middlesex,3,MAPC,Boston Region,Boston Region: SWAP,MWRTA,Extended,Adjacent community,Developing Suburbs,DS: Country Suburbs
@@ -168,7 +168,7 @@ TOWNID,GEOID20,TOWN,COUNTY_NUM,COUNTY_NAME,MASSDOT_DISTRICT,RPA,MPO,MPO_SUBREGIO
 167,2500538225,Mansfield,005,Bristol,5,SRPEDD,Southeast Mass,Southeast Mass: Bristol,GATRA,Extended,Commuter Rail,Maturing Suburbs,MS: Established Suburbs and Cape Cod Towns
 168,2500938400,Marblehead,009,Essex,4,MAPC,Boston Region,Boston Region: NSTF,None (MBTA),Core (51),Adjacent community,Maturing Suburbs,MS: Mature Suburban Towns
 169,2502338540,Marion,023,Plymouth,5,SRPEDD,Southeast Mass,Southeast Mass: Plymouth,None,Not MBTA,NA,Developing Suburbs,DS: Maturing New England Towns
-170,2501738715,Marlborough,017,Middlesex,3,MAPC,Boston Region,Boston Region: MWRC,MWRTA,Extended,Adjacent community,Regional Urban Centers,RUC: Sub-RUC
+170,2501738715,Marlborough,017,Middlesex,3,MAPC,Boston Region,Boston Region: MetroWest,MWRTA,Extended,Adjacent community,Regional Urban Centers,RUC: Sub-RUC
 171,2502338855,Marshfield,023,Plymouth,5,MAPC,Boston Region,Boston Region: SSC,GATRA,Extended,Adjacent community,Maturing Suburbs,MS: Established Suburbs and Cape Cod Towns
 172,2500139100,Mashpee,001,Barnstable,5,CCC,Cape Cod,Cape Cod: Upper Cape,CCRTA,Not MBTA,NA,Maturing Suburbs,MS: Established Suburbs and Cape Cod Towns
 173,2502339450,Mattapoisett,023,Plymouth,5,SRPEDD,Southeast Mass,Southeast Mass: Plymouth,SRTA,Not MBTA,NA,Developing Suburbs,DS: Maturing New England Towns
@@ -196,7 +196,7 @@ TOWNID,GEOID20,TOWN,COUNTY_NUM,COUNTY_NAME,MASSDOT_DISTRICT,RPA,MPO,MPO_SUBREGIO
 195,2500343300,Mount Washington,003,Berkshire,1,BCRPC,Berkshire,Berkshire: Southwest,BRTA,Not MBTA,NA,Rural Towns,Rural Towns
 196,2500943580,Nahant,009,Essex,4,MAPC,Boston Region,Boston Region: NSTF,None (MBTA),Core (51),Adjacent small town,Maturing Suburbs,MS: Mature Suburban Towns
 197,2501943790,Nantucket,019,Nantucket,5,NPEDC,Nantucket,Nantucket: Nantucket,NRTA,Not MBTA,NA,Developing Suburbs,DS: Maturing New England Towns
-198,2501743895,Natick,017,Middlesex,3,MAPC,Boston Region,Boston Region: MWRC,MWRTA,Core (51),Commuter Rail,Maturing Suburbs,MS: Mature Suburban Towns
+198,2501743895,Natick,017,Middlesex,3,MAPC,Boston Region,Boston Region: MetroWest,MWRTA,Core (51),Commuter Rail,Maturing Suburbs,MS: Mature Suburban Towns
 199,2502144105,Needham,021,Norfolk,6,MAPC,Boston Region,Boston Region: ICC/TRIC,None (MBTA),Core (51),Commuter Rail,Maturing Suburbs,MS: Mature Suburban Towns
 200,2500344385,New Ashford,003,Berkshire,1,BCRPC,Berkshire,Berkshire: North,BRTA,Not MBTA,NA,Rural Towns,Rural Towns
 201,2500545000,New Bedford,005,Bristol,5,SRPEDD,Southeast Mass,Southeast Mass: New Bedford,SRTA,Extended (2022),Commuter Rail,Regional Urban Centers,RUC: Major RUC
@@ -275,7 +275,7 @@ TOWNID,GEOID20,TOWN,COUNTY_NUM,COUNTY_NAME,MASSDOT_DISTRICT,RPA,MPO,MPO_SUBREGIO
 274,2501762535,Somerville,017,Middlesex,4,MAPC,Boston Region,Boston Region: ICC,None (MBTA),Core (14),Rapid Transit,Inner Core,IC: Metro Core Communities
 275,2501564145,South Hadley,015,Hampshire,2,PVPC,Pioneer Valley,Pioneer Valley: 3,PVTA,Not MBTA,NA,Developing Suburbs,DS: Maturing New England Towns
 276,2501562745,Southampton,015,Hampshire,2,PVPC,Pioneer Valley,Pioneer Valley: 5,FRTA,Not MBTA,NA,Developing Suburbs,DS: Country Suburbs
-277,2502763165,Southborough,027,Worcester,3,MAPC,Boston Region,Boston Region: MWRC,MWRTA,Extended,Commuter Rail,Maturing Suburbs,MS: Established Suburbs and Cape Cod Towns
+277,2502763165,Southborough,027,Worcester,3,MAPC,Boston Region,Boston Region: MetroWest,MWRTA,Extended,Commuter Rail,Maturing Suburbs,MS: Established Suburbs and Cape Cod Towns
 278,2502763345,Southbridge,027,Worcester,3,CMRPC,Central Mass,Central Mass: Southwest,WRTA,Not MBTA,NA,Regional Urban Centers,RUC: Sub-RUC
 279,2501365825,Southwick,013,Hampden,2,PVPC,Pioneer Valley,Pioneer Valley: 2,FRTA,Not MBTA,NA,Developing Suburbs,DS: Country Suburbs
 280,2502766105,Spencer,027,Worcester,3,CMRPC,Central Mass,Central Mass: West,WRTA,Not MBTA,NA,Developing Suburbs,DS: Maturing New England Towns
@@ -313,9 +313,9 @@ TOWNID,GEOID20,TOWN,COUNTY_NUM,COUNTY_NAME,MASSDOT_DISTRICT,RPA,MPO,MPO_SUBREGIO
 312,2501173265,Warwick,011,Franklin,2,FCPD,Franklin,Franklin: East County,FRTA,Not MBTA,NA,Rural Towns,Rural Towns
 313,2500373335,Washington,003,Berkshire,1,BCRPC,Berkshire,Berkshire: Southeast,BRTA,Not MBTA,NA,Rural Towns,Rural Towns
 314,2501773440,Watertown,017,Middlesex,6,MAPC,Boston Region,Boston Region: ICC,None (MBTA),Core (14),Adjacent community,Inner Core,IC: Streetcar Suburbs
-315,2501773790,Wayland,017,Middlesex,3,MAPC,Boston Region,Boston Region: MWRC,MWRTA,Extended,Adjacent community,Maturing Suburbs,MS: Established Suburbs and Cape Cod Towns
+315,2501773790,Wayland,017,Middlesex,3,MAPC,Boston Region,Boston Region: MetroWest,MWRTA,Extended,Adjacent community,Maturing Suburbs,MS: Established Suburbs and Cape Cod Towns
 316,2502773895,Webster,027,Worcester,3,CMRPC,Central Mass,Central Mass: Southwest,WRTA,Not MBTA,NA,Regional Urban Centers,RUC: Sub-RUC
-317,2502174175,Wellesley,021,Norfolk,6,MAPC,Boston Region,Boston Region: MWRC,MWRTA,Core (51),Commuter Rail,Maturing Suburbs,MS: Established Suburbs and Cape Cod Towns
+317,2502174175,Wellesley,021,Norfolk,6,MAPC,Boston Region,Boston Region: MetroWest,MWRTA,Core (51),Commuter Rail,Maturing Suburbs,MS: Established Suburbs and Cape Cod Towns
 318,2500174385,Wellfleet,001,Barnstable,5,CCC,Cape Cod,Cape Cod: Outer Cape,CCRTA,Not MBTA,NA,Maturing Suburbs,MS: Established Suburbs and Cape Cod Towns
 319,2501174525,Wendell,011,Franklin,2,FCPD,Franklin,Franklin: East County,FRTA,Not MBTA,NA,Rural Towns,Rural Towns
 320,2500974595,Wenham,009,Essex,4,MAPC,Boston Region,Boston Region: NSTF,None (MBTA),Core (51),Commuter Rail,Developing Suburbs,DS: Maturing New England Towns
@@ -331,7 +331,7 @@ TOWNID,GEOID20,TOWN,COUNTY_NUM,COUNTY_NAME,MASSDOT_DISTRICT,RPA,MPO,MPO_SUBREGIO
 330,2501776135,Westford,017,Middlesex,3,NMCOG,Northern Middlesex,Northern Middlesex: No Subregion,LRTA,Extended,Adjacent community,Developing Suburbs,DS: Country Suburbs
 331,2501576380,Westhampton,015,Hampshire,2,PVPC,Pioneer Valley,Pioneer Valley: 5,FRTA,Not MBTA,NA,Rural Towns,Rural Towns
 332,2502777010,Westminster,027,Worcester,3,MRPC,Montachusett,Montachusett: 2,MART,Extended,Adjacent small town,Developing Suburbs,DS: Country Suburbs
-333,2501777255,Weston,017,Middlesex,6,MAPC,Boston Region,Boston Region: MWRC,MWRTA,Core (51),Commuter Rail,Maturing Suburbs,MS: Established Suburbs and Cape Cod Towns
+333,2501777255,Weston,017,Middlesex,6,MAPC,Boston Region,Boston Region: MetroWest,MWRTA,Core (51),Commuter Rail,Maturing Suburbs,MS: Established Suburbs and Cape Cod Towns
 334,2500577570,Westport,005,Bristol,5,SRPEDD,Southeast Mass,Southeast Mass: Bristol,SRTA,Not MBTA,NA,Developing Suburbs,DS: Maturing New England Towns
 335,2502178690,Westwood,021,Norfolk,6,MAPC,Boston Region,Boston Region: TRIC,None (MBTA),Core (51),Commuter Rail,Maturing Suburbs,MS: Established Suburbs and Cape Cod Towns
 336,2502178972,Weymouth,021,Norfolk,6,MAPC,Boston Region,Boston Region: SSC,None (MBTA),Core (51),Commuter Rail,Maturing Suburbs,MS: Mature Suburban Towns
