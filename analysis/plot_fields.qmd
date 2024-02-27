@@ -4,7 +4,7 @@ author: "Steven Andrews, Boston Region MPO"
 date: today
 format: 
   html:
-    embed-resources: true
+    self-contained: true
 editor: visual
 ---
 
