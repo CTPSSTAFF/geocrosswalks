@@ -14,7 +14,7 @@ editor: visual
 #| echo: false
 library(tidyverse)
 library(mapview)
-mapviewOptions(fgb = FALSE)
+mapviewOptions(fgb = TRUE)
 library(googlesheets4)
 library(sf)
 library(gt)
@@ -134,9 +134,19 @@ mapview(ma_munis |> summarize(state = "MA") |> st_cast("MULTILINESTRING"),
           hide = TRUE, homebutton = FALSE) +
   mapview(ma_munis |> select(MAPC_COMM_SUBTYPE), 
           col.regions = viridis::turbo, layer.name = "MAPC Community Subtype",
-          hide = TRUE, homebutton = FALSE)
+          hide = TRUE, homebutton = FALSE) +
+  mapview(ma_munis |> group_by(MPO) |> summarize() |> st_cast("MULTILINESTRING"),
+          hide = TRUE, homebutton = FALSE, color = "black", lwd = 2,
+          layer.name = "MPO Outline", legend = FALSE) + 
+  mapview(ma_munis |> 
+            filter(MPO == "Boston Region") |> 
+            group_by(MPO) |> 
+            summarize() |> 
+            st_cast("MULTILINESTRING"),
+          hide = FALSE, homebutton = TRUE,
+          layer.name = "Boston MPO Outline",
+          color = "black", lwd = 2)
 
-  
 # mapview(ma_munis |> 
 #           select(TOWN,
 #                  COUNTY_NAME, MASSDOT_DISTRICT,
