@@ -13,7 +13,7 @@ final dataset contains 351 munis!
 
 Updated: March 2026: Updated four munis with new GEOIDS with 2024 ACS.
 Added “GATEWAY_CITY” designation. Updated Boston MPO subregions for
-Dedham and Sherborn.
+Dedham and Sherborn. Subscript \_2026
 
 Updated: June 2025: Added Manchester by the Sea to CATA; subscript:
 \_2025
