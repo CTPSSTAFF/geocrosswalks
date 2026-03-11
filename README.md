@@ -16,7 +16,12 @@ Added “GATEWAY_CITY” designation. Updated Boston MPO subregions for
 Dedham and Sherborn. Updated RTAs. Subscript \_2026
 
 Updated: June 2025: Added Manchester by the Sea to CATA; subscript:
-\_2025. Note from Mar 2026, some RTAs were likely out of date in 2025. The updated on Mass.gov is Aug 2 2024 and they were not included here.
+\_2025.
+
+–Note from March 2026, some RTAs were likely out of date in 2025. The
+updated on Mass.gov is Aug 2 2024 and they were not included here. The
+only likely impacts would have been two munis, Halifax and Plympton who
+moved from “None (MBTA)” to GATRA.
 
 The fields included are shown below:
 
