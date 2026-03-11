@@ -2,11 +2,18 @@
 
 ## Generating Municipal Lookups
 
-This repo contains a set of lookups one can use to attach 2020 County
+This repo contains a set of lookups one can use to attach County
 Subdivision GEOIDs to various municipality-based attributes. This work
 was adapted from an internal CTPS spreadsheet, that was expanded in
 Spring 2023. Much of the work was done using found datasets that
-appeared to be useful or official.
+appeared to be useful or official. This list contains duplicate values
+for towns where the GEOID changed. This is performed to facilitate
+meshing with whichever 2020+ shapes you’re using. Take care that your
+final dataset contains 351 munis!
+
+Updated: March 2026: Updated four munis with new GEOIDS with 2024 ACS.
+Added “GATEWAY_CITY” designation. Updated Boston MPO subregions for
+Dedham and Sherborn.
 
 Updated: June 2025: Added Manchester by the Sea to CATA; subscript:
 \_2025
