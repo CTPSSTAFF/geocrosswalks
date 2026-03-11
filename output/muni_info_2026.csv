@@ -1,5 +1,5 @@
 TOWNID,GEOID,TOWN,COUNTY_NUM,COUNTY_NAME,MASSDOT_DISTRICT,EMS_REGION,RPA,MPO,MPO_SUBREGION,RTA,MBTA,MBTA_MFZONING,MAPC_COMM_TYPE,MAPC_COMM_SUBTYPE,GATEWAY_CITY,Changed_GEOID
-7,2500901185,Amesbury,009,Essex,4,3,MVPC,Merrimack Valley,Merrimack Valley: 1,MVRTA,Extended,Adjacent community,Regional Urban Centers,RUC: Sub-RUC,No,2020-2024 ACS
+7,2500901185,Amesbury,009,Essex,4,3,MVPC,Merrimack Valley,Merrimack Valley: 1,MeVa,Extended,Adjacent community,Regional Urban Centers,RUC: Sub-RUC,No,2020-2024 ACS
 87,2501519365,Easthampton,015,Hampshire,2,1,PVPC,Pioneer Valley,Pioneer Valley: 3,PVTA,Not MBTA,NA,Regional Urban Centers,RUC: Sub-RUC,No,2020-2024 ACS
 16,2500502690,Attleboro,005,Bristol,5,5,SRPEDD,Southeast Mass,Southeast Mass: Attleboro,GATRA,Extended,Commuter Rail,Regional Urban Centers,RUC: Sub-RUC,Gateway,NA
 314,2501773405,Watertown,017,Middlesex,6,4,MAPC,Boston Region,Boston Region: ICC,None (MBTA),Core (14),Adjacent community,Inner Core,IC: Streetcar Suburbs,No,2020-2024 ACS
@@ -9,9 +9,9 @@ TOWNID,GEOID,TOWN,COUNTY_NUM,COUNTY_NAME,MASSDOT_DISTRICT,EMS_REGION,RPA,MPO,MPO
 4,2500300555,Adams,003,Berkshire,1,1,BCRPC,Berkshire,Berkshire: North,BRTA,Not MBTA,NA,Developing Suburbs,DS: Maturing New England Towns,No,NA
 5,2501300840,Agawam,013,Hampden,2,1,PVPC,Pioneer Valley,Pioneer Valley: 2,PVTA,Not MBTA,NA,Developing Suburbs,DS: Maturing New England Towns,No,NA
 6,2500300975,Alford,003,Berkshire,1,1,BCRPC,Berkshire,Berkshire: Southwest,BRTA,Not MBTA,NA,Rural Towns,Rural Towns,No,NA
-7,2500901260,Amesbury,009,Essex,4,3,MVPC,Merrimack Valley,Merrimack Valley: 1,MVRTA,Extended,Adjacent community,Regional Urban Centers,RUC: Sub-RUC,No,NA
+7,2500901260,Amesbury,009,Essex,4,3,MVPC,Merrimack Valley,Merrimack Valley: 1,MeVa,Extended,Adjacent community,Regional Urban Centers,RUC: Sub-RUC,No,NA
 8,2501501370,Amherst,015,Hampshire,2,1,PVPC,Pioneer Valley,Pioneer Valley: 3,PVTA,Not MBTA,NA,Regional Urban Centers,RUC: Sub-RUC,No,NA
-9,2500901465,Andover,009,Essex,4,3,MVPC,Merrimack Valley,Merrimack Valley: 4,MVRTA,Extended,Commuter Rail,Developing Suburbs,DS: Maturing New England Towns,No,NA
+9,2500901465,Andover,009,Essex,4,3,MVPC,Merrimack Valley,Merrimack Valley: 4,MeVa,Extended,Commuter Rail,Developing Suburbs,DS: Maturing New England Towns,No,NA
 104,2500701585,Aquinnah,007,Dukes,5,5,MVC,Martha's Vineyard,Martha's Vineyard: MV,VTA,Not MBTA,NA,Rural Towns,Rural Towns,No,NA
 10,2501701605,Arlington,017,Middlesex,4,4,MAPC,Boston Region,Boston Region: ICC,None (MBTA),Core (14),Adjacent community,Inner Core,IC: Streetcar Suburbs,No,NA
 11,2502701885,Ashburnham,027,Worcester,3,2,MRPC,Montachusett,Montachusett: 2,MART,Extended,Adjacent small town,Developing Suburbs,DS: Country Suburbs,No,NA
@@ -41,7 +41,7 @@ TOWNID,GEOID,TOWN,COUNTY_NUM,COUNTY_NAME,MASSDOT_DISTRICT,EMS_REGION,RPA,MPO,MPO
 35,2502507000,Boston,025,Suffolk,6,4,MAPC,Boston Region,Boston Region: ICC,None (MBTA),Core (14),Boston,Inner Core,IC: Metro Core Communities,No,NA
 36,2500107175,Bourne,001,Barnstable,5,5,CCC,Cape Cod,Cape Cod: Upper Cape,CCRTA,Extended (2016),Adjacent small town,Maturing Suburbs,MS: Established Suburbs and Cape Cod Towns,No,NA
 37,2501707350,Boxborough,017,Middlesex,3,4,MAPC,Boston Region,Boston Region: MAGIC,MART,Extended,Adjacent small town,Developing Suburbs,DS: Country Suburbs,No,NA
-38,2500907420,Boxford,009,Essex,4,3,MVPC,Merrimack Valley,Merrimack Valley: 3,MVRTA,Extended,Adjacent small town,Developing Suburbs,DS: Country Suburbs,No,NA
+38,2500907420,Boxford,009,Essex,4,3,MVPC,Merrimack Valley,Merrimack Valley: 3,MeVa,Extended,Adjacent small town,Developing Suburbs,DS: Country Suburbs,No,NA
 39,2502707525,Boylston,027,Worcester,3,2,CMRPC,Central Mass,Central Mass: Northeast,WRTA,Not MBTA,NA,Developing Suburbs,DS: Country Suburbs,No,NA
 40,2502107740,Braintree,021,Norfolk,6,4,MAPC,Boston Region,Boston Region: SSC,None (MBTA),Core (51),Rapid Transit,Maturing Suburbs,MS: Mature Suburban Towns,No,NA
 41,2500107980,Brewster,001,Barnstable,5,5,CCC,Cape Cod,Cape Cod: Lower Cape,CCRTA,Not MBTA,NA,Maturing Suburbs,MS: Established Suburbs and Cape Cod Towns,No,NA
@@ -100,14 +100,14 @@ TOWNID,GEOID,TOWN,COUNTY_NUM,COUNTY_NAME,MASSDOT_DISTRICT,EMS_REGION,RPA,MPO,MPO
 94,2500522130,Fairhaven,005,Bristol,5,5,SRPEDD,Southeast Mass,Southeast Mass: Bristol,SRTA,Not MBTA,NA,Developing Suburbs,DS: Maturing New England Towns,No,NA
 97,2502723875,Fitchburg,027,Worcester,3,2,MRPC,Montachusett,Montachusett: Fitchburg,MART,Extended,Commuter Rail,Regional Urban Centers,RUC: Sub-RUC,Gateway,NA
 96,2500123105,Falmouth,001,Barnstable,5,5,CCC,Cape Cod,Cape Cod: Upper Cape,CCRTA,Not MBTA,NA,Maturing Suburbs,MS: Established Suburbs and Cape Cod Towns,No,NA
-128,2500929405,Haverhill,009,Essex,4,3,MVPC,Merrimack Valley,Merrimack Valley: Haverhill,MVRTA,Extended,Commuter Rail,Regional Urban Centers,RUC: Sub-RUC,Gateway,NA
+128,2500929405,Haverhill,009,Essex,4,3,MVPC,Merrimack Valley,Merrimack Valley: Haverhill,MeVa,Extended,Commuter Rail,Regional Urban Centers,RUC: Sub-RUC,Gateway,NA
 98,2500324120,Florida,003,Berkshire,1,1,BCRPC,Berkshire,Berkshire: North,BRTA,Not MBTA,NA,Rural Towns,Rural Towns,No,NA
 99,2502124820,Foxborough,021,Norfolk,5,5,MAPC,Boston Region,Boston Region: TRIC,GATRA,Extended,Adjacent community,Developing Suburbs,DS: Maturing New England Towns,No,NA
 100,2501724960,Framingham,017,Middlesex,3,4,MAPC,Boston Region,Boston Region: MetroWest,MWRTA,Core (51),Commuter Rail,Regional Urban Centers,RUC: Sub-RUC,No,NA
 101,2502125172,Franklin,021,Norfolk,3,2,MAPC,Boston Region,Boston Region: SWAP,GATRA,Extended,Commuter Rail,Developing Suburbs,DS: Maturing New England Towns,No,NA
 102,2500525240,Freetown,005,Bristol,5,5,SRPEDD,Southeast Mass,Southeast Mass: Bristol,SRTA,Extended,Commuter Rail,Developing Suburbs,DS: Country Suburbs,No,NA
 103,2502725485,Gardner,027,Worcester,3,2,MRPC,Montachusett,Montachusett: Gardner,MART,Not MBTA,NA,Regional Urban Centers,RUC: Sub-RUC,No,NA
-105,2500925625,Georgetown,009,Essex,4,3,MVPC,Merrimack Valley,Merrimack Valley: 3,MVRTA,Extended,Adjacent community,Developing Suburbs,DS: Country Suburbs,No,NA
+105,2500925625,Georgetown,009,Essex,4,3,MVPC,Merrimack Valley,Merrimack Valley: 3,MeVa,Extended,Adjacent community,Developing Suburbs,DS: Country Suburbs,No,NA
 106,2501125730,Gill,011,Franklin,2,1,FCPD,Franklin,Franklin: Central County,FRTA,Not MBTA,NA,Rural Towns,Rural Towns,No,NA
 107,2500926150,Gloucester,009,Essex,4,3,MAPC,Boston Region,Boston Region: NSTF,CATA,Extended,Commuter Rail,Regional Urban Centers,RUC: Sub-RUC,No,NA
 108,2501526290,Goshen,015,Hampshire,1,1,PVPC,Pioneer Valley,Pioneer Valley: 5,FRTA,Not MBTA,NA,Rural Towns,Rural Towns,No,NA
@@ -118,12 +118,12 @@ TOWNID,GEOID,TOWN,COUNTY_NUM,COUNTY_NAME,MASSDOT_DISTRICT,EMS_REGION,RPA,MPO,MPO
 113,2500326815,Great Barrington,003,Berkshire,1,1,BCRPC,Berkshire,Berkshire: Southwest,BRTA,Not MBTA,NA,Developing Suburbs,DS: Maturing New England Towns,No,NA
 114,2501127060,Greenfield,011,Franklin,2,1,FCPD,Franklin,Franklin: Greenfield,FRTA,Not MBTA,NA,Developing Suburbs,DS: Maturing New England Towns,No,NA
 115,2501727480,Groton,017,Middlesex,3,2,MRPC,Montachusett,Montachusett: 2,LRTA,Extended,Adjacent small town,Developing Suburbs,DS: Country Suburbs,No,NA
-116,2500927620,Groveland,009,Essex,4,3,MVPC,Merrimack Valley,Merrimack Valley: 3,MVRTA,Extended,Adjacent small town,Maturing Suburbs,MS: Established Suburbs and Cape Cod Towns,No,NA
+116,2500927620,Groveland,009,Essex,4,3,MVPC,Merrimack Valley,Merrimack Valley: 3,MeVa,Extended,Adjacent small town,Maturing Suburbs,MS: Established Suburbs and Cape Cod Towns,No,NA
 117,2501527690,Hadley,015,Hampshire,2,1,PVPC,Pioneer Valley,Pioneer Valley: 3,PVTA,Not MBTA,NA,Developing Suburbs,DS: Maturing New England Towns,No,NA
-118,2502327795,Halifax,023,Plymouth,5,5,OCPC,Old Colony,Old Colony: Lower Population,None (MBTA),Extended,Commuter Rail,Developing Suburbs,DS: Maturing New England Towns,No,NA
+118,2502327795,Halifax,023,Plymouth,5,5,OCPC,Old Colony,Old Colony: Lower Population,GATRA,Extended,Commuter Rail,Developing Suburbs,DS: Maturing New England Towns,No,NA
 119,2500927900,Hamilton,009,Essex,4,3,MAPC,Boston Region,Boston Region: NSTF,CATA,Core (51),Commuter Rail,Developing Suburbs,DS: Maturing New England Towns,No,NA
 120,2501328075,Hampden,013,Hampden,2,1,PVPC,Pioneer Valley,Pioneer Valley: 4,PVTA,Not MBTA,NA,Developing Suburbs,DS: Country Suburbs,No,NA
-121,2500328180,Hancock,003,Berkshire,1,1,BCRPC,Berkshire,Berkshire: North-Central,None,Not MBTA,NA,Rural Towns,Rural Towns,No,NA
+121,2500328180,Hancock,003,Berkshire,1,1,BCRPC,Berkshire,Berkshire: North-Central,BRTA,Not MBTA,NA,Rural Towns,Rural Towns,No,NA
 122,2502328285,Hanover,023,Plymouth,5,4,MAPC/OCPC,Old Colony,Old Colony: Lower Population,GATRA,Extended,Adjacent community,Developing Suburbs,DS: Maturing New England Towns,No,NA
 123,2502328495,Hanson,023,Plymouth,5,5,OCPC,Old Colony,Old Colony: Lower Population,BAT,Extended,Commuter Rail,Developing Suburbs,DS: Maturing New England Towns,No,NA
 124,2502728740,Hardwick,027,Worcester,2,2,CMRPC,Central Mass,Central Mass: West,MART,Not MBTA,NA,Rural Towns,Rural Towns,No,NA
@@ -139,7 +139,7 @@ TOWNID,GEOID,TOWN,COUNTY_NUM,COUNTY_NAME,MASSDOT_DISTRICT,EMS_REGION,RPA,MPO,MPO
 134,2502730560,Holden,027,Worcester,3,2,CMRPC,Central Mass,Central Mass: North,WRTA,Extended,Adjacent community,Developing Suburbs,DS: Maturing New England Towns,No,NA
 135,2501330665,Holland,013,Hampden,2,2,PVPC,Pioneer Valley,Pioneer Valley: 4,WRTA,Not MBTA,NA,Developing Suburbs,DS: Maturing New England Towns,No,NA
 136,2501730700,Holliston,017,Middlesex,3,4,MAPC,Boston Region,Boston Region: MetroWest,MWRTA,Extended,Adjacent community,Developing Suburbs,DS: Maturing New England Towns,No,NA
-149,2500934550,Lawrence,009,Essex,4,3,MVPC,Merrimack Valley,Merrimack Valley: Lawrence,MVRTA,Extended,Commuter Rail,Regional Urban Centers,RUC: Major RUC,Gateway,NA
+149,2500934550,Lawrence,009,Essex,4,3,MVPC,Merrimack Valley,Merrimack Valley: Lawrence,MeVa,Extended,Commuter Rail,Regional Urban Centers,RUC: Major RUC,Gateway,NA
 138,2502730945,Hopedale,027,Worcester,3,2,CMRPC,Central Mass,Central Mass: Southeast,MWRTA,Not MBTA,NA,Developing Suburbs,DS: Maturing New England Towns,No,NA
 139,2501731085,Hopkinton,017,Middlesex,3,4,MAPC,Boston Region,Boston Region: SWAP,MWRTA,Extended,Adjacent community,Developing Suburbs,DS: Country Suburbs,No,NA
 140,2502731435,Hubbardston,027,Worcester,3,2,MRPC,Montachusett,Montachusett: 1,MART,Not MBTA,NA,Rural Towns,Rural Towns,No,NA
@@ -167,7 +167,7 @@ TOWNID,GEOID,TOWN,COUNTY_NUM,COUNTY_NAME,MASSDOT_DISTRICT,EMS_REGION,RPA,MPO,MPO
 162,2502737420,Lunenburg,027,Worcester,3,2,MRPC,Montachusett,Montachusett: 3,MART,Extended,Adjacent small town,Developing Suburbs,DS: Country Suburbs,No,NA
 165,2501737875,Malden,017,Middlesex,4,3,MAPC,Boston Region,Boston Region: ICC,None (MBTA),Core (14),Rapid Transit,Inner Core,IC: Metro Core Communities,Gateway,NA
 164,2500937560,Lynnfield,009,Essex,4,3,MAPC,Boston Region,Boston Region: NSPC,None (MBTA),Core (51),Adjacent community,Maturing Suburbs,MS: Established Suburbs and Cape Cod Towns,No,NA
-181,2500940675,Methuen,009,Essex,4,3,MVPC,Merrimack Valley,Merrimack Valley: 4,MVRTA,Extended,Adjacent community,Regional Urban Centers,RUC: Sub-RUC,Gateway,2020-2024 ACS
+181,2500940675,Methuen,009,Essex,4,3,MVPC,Merrimack Valley,Merrimack Valley: 4,MeVa,Extended,Adjacent community,Regional Urban Centers,RUC: Sub-RUC,Gateway,2020-2024 ACS
 166,2500937995,Manchester-by-the-Sea,009,Essex,4,3,MAPC,Boston Region,Boston Region: NSTF,CATA,Core (51),Commuter Rail,Developing Suburbs,DS: Maturing New England Towns,No,NA
 167,2500538225,Mansfield,005,Bristol,5,5,SRPEDD,Southeast Mass,Southeast Mass: Bristol,GATRA,Extended,Commuter Rail,Maturing Suburbs,MS: Established Suburbs and Cape Cod Towns,No,NA
 168,2500938400,Marblehead,009,Essex,4,3,MAPC,Boston Region,Boston Region: NSTF,None (MBTA),Core (51),Adjacent community,Maturing Suburbs,MS: Mature Suburban Towns,No,NA
@@ -182,8 +182,8 @@ TOWNID,GEOID,TOWN,COUNTY_NUM,COUNTY_NAME,MASSDOT_DISTRICT,EMS_REGION,RPA,MPO,MPO
 177,2502139975,Medway,021,Norfolk,3,2,MAPC,Boston Region,Boston Region: SWAP,GATRA,Extended,Adjacent community,Developing Suburbs,DS: Maturing New England Towns,No,NA
 178,2501740115,Melrose,017,Middlesex,4,3,MAPC,Boston Region,Boston Region: ICC,None (MBTA),Core (51),Commuter Rail,Inner Core,IC: Streetcar Suburbs,No,NA
 179,2502740255,Mendon,027,Worcester,3,2,CMRPC,Central Mass,Central Mass: Southeast,None,Not MBTA,NA,Developing Suburbs,DS: Country Suburbs,No,NA
-180,2500940430,Merrimac,009,Essex,4,3,MVPC,Merrimack Valley,Merrimack Valley: 3,MVRTA,Extended,Adjacent small town,Developing Suburbs,DS: Maturing New England Towns,No,NA
-181,2500940710,Methuen,009,Essex,4,3,MVPC,Merrimack Valley,Merrimack Valley: 4,MVRTA,Extended,Adjacent community,Regional Urban Centers,RUC: Sub-RUC,Gateway,NA
+180,2500940430,Merrimac,009,Essex,4,3,MVPC,Merrimack Valley,Merrimack Valley: 3,MeVa,Extended,Adjacent small town,Developing Suburbs,DS: Maturing New England Towns,No,NA
+181,2500940710,Methuen,009,Essex,4,3,MVPC,Merrimack Valley,Merrimack Valley: 4,MeVa,Extended,Adjacent community,Regional Urban Centers,RUC: Sub-RUC,Gateway,NA
 182,2502340850,Middleborough,023,Plymouth,5,5,SRPEDD,Southeast Mass,Southeast Mass: Plymouth,GATRA,Extended,Commuter Rail,Developing Suburbs,DS: Country Suburbs,No,NA
 183,2501540990,Middlefield,015,Hampshire,1,1,PVPC,Pioneer Valley,Pioneer Valley: 5,FRTA,Not MBTA,NA,Rural Towns,Rural Towns,No,NA
 184,2500941095,Middleton,009,Essex,4,3,MAPC,Boston Region,Boston Region: NSTF,None (MBTA),Core (51),Adjacent community,Developing Suburbs,DS: Maturing New England Towns,No,NA
@@ -205,17 +205,17 @@ TOWNID,GEOID,TOWN,COUNTY_NUM,COUNTY_NAME,MASSDOT_DISTRICT,EMS_REGION,RPA,MPO,MPO
 200,2500344385,New Ashford,003,Berkshire,1,1,BCRPC,Berkshire,Berkshire: North,BRTA,Not MBTA,NA,Rural Towns,Rural Towns,No,NA
 201,2500545000,New Bedford,005,Bristol,5,5,SRPEDD,Southeast Mass,Southeast Mass: New Bedford,SRTA,Extended (2022),Commuter Rail,Regional Urban Centers,RUC: Major RUC,Gateway,NA
 202,2502745105,New Braintree,027,Worcester,2,2,CMRPC,Central Mass,Central Mass: West,WRTA,Not MBTA,NA,Rural Towns,Rural Towns,No,NA
-203,2500345420,New Marlborough,003,Berkshire,1,1,BCRPC,Berkshire,Berkshire: Southeast,None,Not MBTA,NA,Rural Towns,Rural Towns,No,NA
+203,2500345420,New Marlborough,003,Berkshire,1,1,BCRPC,Berkshire,Berkshire: Southeast,BRTA,Not MBTA,NA,Rural Towns,Rural Towns,No,NA
 204,2501145490,New Salem,011,Franklin,2,2,FCPD,Franklin,Franklin: East County,FRTA,Not MBTA,NA,Rural Towns,Rural Towns,No,NA
-205,2500945175,Newbury,009,Essex,4,3,MVPC,Merrimack Valley,Merrimack Valley: 2,MVRTA,Extended,Adjacent small town,Developing Suburbs,DS: Country Suburbs,No,NA
-206,2500945245,Newburyport,009,Essex,4,3,MVPC,Merrimack Valley,Merrimack Valley: 1,MVRTA,Extended,Commuter Rail,Regional Urban Centers,RUC: Sub-RUC,No,NA
+205,2500945175,Newbury,009,Essex,4,3,MVPC,Merrimack Valley,Merrimack Valley: 2,MeVa,Extended,Adjacent small town,Developing Suburbs,DS: Country Suburbs,No,NA
+206,2500945245,Newburyport,009,Essex,4,3,MVPC,Merrimack Valley,Merrimack Valley: 1,MeVa,Extended,Commuter Rail,Regional Urban Centers,RUC: Sub-RUC,No,NA
 207,2501745560,Newton,017,Middlesex,6,4,MAPC,Boston Region,Boston Region: ICC,None (MBTA),Core (14),Rapid Transit,Inner Core,IC: Streetcar Suburbs,No,NA
 208,2502146050,Norfolk,021,Norfolk,5,4,MAPC,Boston Region,Boston Region: SWAP,GATRA,Core (51),Commuter Rail,Developing Suburbs,DS: Maturing New England Towns,No,NA
 209,2500346225,North Adams,003,Berkshire,1,1,BCRPC,Berkshire,Berkshire: North Adams,BRTA,Not MBTA,NA,Regional Urban Centers,RUC: Sub-RUC,No,NA
-210,2500946365,North Andover,009,Essex,4,3,MVPC,Merrimack Valley,Merrimack Valley: 4,MVRTA,Extended,Adjacent community,Developing Suburbs,DS: Maturing New England Towns,No,NA
+210,2500946365,North Andover,009,Essex,4,3,MVPC,Merrimack Valley,Merrimack Valley: 4,MeVa,Extended,Adjacent community,Developing Suburbs,DS: Maturing New England Towns,No,NA
 211,2500546598,North Attleborough,005,Bristol,5,5,SRPEDD,Southeast Mass,Southeast Mass: Bristol,GATRA,Extended,Adjacent community,Developing Suburbs,DS: Maturing New England Towns,No,NA
 212,2502747135,North Brookfield,027,Worcester,3,2,CMRPC,Central Mass,Central Mass: West,WRTA,Not MBTA,NA,Developing Suburbs,DS: Maturing New England Towns,No,NA
-213,2501748955,North Reading,017,Middlesex,4,3,MAPC,Boston Region,Boston Region: NSPC,MVRTA,Extended,Adjacent community,Maturing Suburbs,MS: Established Suburbs and Cape Cod Towns,No,NA
+213,2501748955,North Reading,017,Middlesex,4,3,MAPC,Boston Region,Boston Region: NSPC,MeVa,Extended,Adjacent community,Maturing Suburbs,MS: Established Suburbs and Cape Cod Towns,No,NA
 214,2501546330,Northampton,015,Hampshire,2,1,PVPC,Pioneer Valley,Pioneer Valley: 3,PVTA,Not MBTA,NA,Regional Urban Centers,RUC: Sub-RUC,No,NA
 215,2502746820,Northborough,027,Worcester,3,2,CMRPC,Central Mass,Central Mass: Northeast,WRTA,Extended,Adjacent community,Developing Suburbs,DS: Maturing New England Towns,No,NA
 216,2502746925,Northbridge,027,Worcester,3,2,CMRPC,Central Mass,Central Mass: Southeast,WRTA,Extended,Adjacent community,Developing Suburbs,DS: Maturing New England Towns,No,NA
@@ -242,7 +242,7 @@ TOWNID,GEOID,TOWN,COUNTY_NUM,COUNTY_NAME,MASSDOT_DISTRICT,EMS_REGION,RPA,MPO,MPO
 237,2501554030,Plainfield,015,Hampshire,1,1,PVPC,Pioneer Valley,Pioneer Valley: 5,FRTA,Not MBTA,NA,Rural Towns,Rural Towns,No,NA
 238,2502154100,Plainville,021,Norfolk,5,5,SRPEDD,Southeast Mass,Southeast Mass: Norfolk,GATRA,Not MBTA,NA,Developing Suburbs,DS: Maturing New England Towns,No,NA
 239,2502354310,Plymouth,023,Plymouth,5,5,OCPC,Old Colony,Old Colony: Plymouth,GATRA,Extended,Adjacent community,Developing Suburbs,DS: Maturing New England Towns,No,NA
-240,2502354415,Plympton,023,Plymouth,5,5,OCPC,Old Colony,Old Colony: Lower Population,None (MBTA),Extended,Adjacent small town,Developing Suburbs,DS: Country Suburbs,No,NA
+240,2502354415,Plympton,023,Plymouth,5,5,OCPC,Old Colony,Old Colony: Lower Population,GATRA,Extended,Adjacent small town,Developing Suburbs,DS: Country Suburbs,No,NA
 241,2502755395,Princeton,027,Worcester,3,2,CMRPC,Central Mass,Central Mass: North,WRTA,Extended,Adjacent small town,Rural Towns,Rural Towns,No,NA
 242,2500155500,Provincetown,001,Barnstable,5,5,CCC,Cape Cod,Cape Cod: Outer Cape,CCRTA,Not MBTA,NA,Regional Urban Centers,RUC: Sub-RUC,No,NA
 243,2502155745,Quincy,021,Norfolk,6,4,MAPC,Boston Region,Boston Region: ICC,None (MBTA),Core (51),Rapid Transit,Regional Urban Centers,RUC: Sub-RUC,Gateway,NA
@@ -256,12 +256,12 @@ TOWNID,GEOID,TOWN,COUNTY_NUM,COUNTY_NAME,MASSDOT_DISTRICT,EMS_REGION,RPA,MPO,MPO
 251,2502357775,Rockland,023,Plymouth,5,5,MAPC,Boston Region,Boston Region: SSC,BAT,Extended,Adjacent community,Developing Suburbs,DS: Maturing New England Towns,No,NA
 252,2500957880,Rockport,009,Essex,4,3,MAPC,Boston Region,Boston Region: NSTF,CATA,Extended,Commuter Rail,Developing Suburbs,DS: Maturing New England Towns,No,NA
 253,2501158335,Rowe,011,Franklin,1,1,FCPD,Franklin,Franklin: West County,FRTA,Not MBTA,NA,Rural Towns,Rural Towns,No,NA
-254,2500958405,Rowley,009,Essex,4,3,MVPC,Merrimack Valley,Merrimack Valley: 2,MVRTA,Extended,Commuter Rail,Developing Suburbs,DS: Country Suburbs,No,NA
+254,2500958405,Rowley,009,Essex,4,3,MVPC,Merrimack Valley,Merrimack Valley: 2,MeVa,Extended,Commuter Rail,Developing Suburbs,DS: Country Suburbs,No,NA
 255,2502758580,Royalston,027,Worcester,2,2,MRPC,Montachusett,Montachusett: 1,MART,Not MBTA,NA,Rural Towns,Rural Towns,No,NA
 256,2501358650,Russell,013,Hampden,1,1,PVPC,Pioneer Valley,Pioneer Valley: 5,FRTA,Not MBTA,NA,Rural Towns,Rural Towns,No,NA
 257,2502758825,Rutland,027,Worcester,3,2,CMRPC,Central Mass,Central Mass: North,WRTA,Not MBTA,NA,Developing Suburbs,DS: Maturing New England Towns,No,NA
 258,2500959105,Salem,009,Essex,4,3,MAPC,Boston Region,Boston Region: NSTF,None (MBTA),Core (51),Commuter Rail,Regional Urban Centers,RUC: Sub-RUC,Gateway,NA
-259,2500959245,Salisbury,009,Essex,4,3,MVPC,Merrimack Valley,Merrimack Valley: 1,MVRTA,Extended,Adjacent community,Developing Suburbs,DS: Maturing New England Towns,No,NA
+259,2500959245,Salisbury,009,Essex,4,3,MVPC,Merrimack Valley,Merrimack Valley: 1,MeVa,Extended,Adjacent community,Developing Suburbs,DS: Maturing New England Towns,No,NA
 260,2500359665,Sandisfield,003,Berkshire,1,1,BCRPC,Berkshire,Berkshire: Southeast,None,Not MBTA,NA,Rural Towns,Rural Towns,No,NA
 261,2500159735,Sandwich,001,Barnstable,5,5,CCC,Cape Cod,Cape Cod: Upper Cape,CCRTA,Not MBTA,NA,Maturing Suburbs,MS: Established Suburbs and Cape Cod Towns,No,NA
 262,2500960015,Saugus,009,Essex,4,3,MAPC,Boston Region,Boston Region: ICC,None (MBTA),Core (51),Adjacent community,Maturing Suburbs,MS: Mature Suburban Towns,No,NA
@@ -299,9 +299,9 @@ TOWNID,GEOID,TOWN,COUNTY_NUM,COUNTY_NAME,MASSDOT_DISTRICT,EMS_REGION,RPA,MPO,MPO
 294,2502769275,Templeton,027,Worcester,2,2,MRPC,Montachusett,Montachusett: 1,MART,Not MBTA,NA,Developing Suburbs,DS: Country Suburbs,No,NA
 295,2501769415,Tewksbury,017,Middlesex,4,3,NMCOG,Northern Middlesex,Northern Middlesex: No Subregion,LRTA,Extended,Adjacent community,Maturing Suburbs,MS: Established Suburbs and Cape Cod Towns,No,NA
 296,2500769940,Tisbury,007,Dukes,5,5,MVC,Martha's Vineyard,Martha's Vineyard: MV,VTA,Not MBTA,NA,Developing Suburbs,DS: Maturing New England Towns,No,NA
-297,2501370045,Tolland,013,Hampden,1,1,PVPC,Pioneer Valley,Pioneer Valley: 5,None,Not MBTA,NA,Rural Towns,Rural Towns,No,NA
+297,2501370045,Tolland,013,Hampden,1,1,PVPC,Pioneer Valley,Pioneer Valley: 5,FRTA,Not MBTA,NA,Rural Towns,Rural Towns,No,NA
 298,2500970150,Topsfield,009,Essex,4,3,MAPC,Boston Region,Boston Region: NSTF,None (MBTA),Core (51),Adjacent small town,Developing Suburbs,DS: Country Suburbs,No,NA
-299,2501770360,Townsend,017,Middlesex,3,2,MRPC,Montachusett,Montachusett: 2,LRTA,Extended,Adjacent small town,Developing Suburbs,DS: Maturing New England Towns,No,NA
+299,2501770360,Townsend,017,Middlesex,3,2,MRPC,Montachusett,Montachusett: 2,LRTA/MART,Extended,Adjacent small town,Developing Suburbs,DS: Maturing New England Towns,No,NA
 300,2500170605,Truro,001,Barnstable,5,5,CCC,Cape Cod,Cape Cod: Outer Cape,CCRTA,Not MBTA,NA,Rural Towns,Rural Towns,No,NA
 301,2501771025,Tyngsborough,017,Middlesex,4,3,NMCOG,Northern Middlesex,Northern Middlesex: No Subregion,LRTA,Extended,Adjacent community,Developing Suburbs,DS: Country Suburbs,No,NA
 302,2500371095,Tyringham,003,Berkshire,1,1,BCRPC,Berkshire,Berkshire: Southeast,None,Not MBTA,NA,Rural Towns,Rural Towns,No,NA
@@ -326,9 +326,9 @@ TOWNID,GEOID,TOWN,COUNTY_NUM,COUNTY_NAME,MASSDOT_DISTRICT,EMS_REGION,RPA,MPO,MPO
 321,2502775155,West Boylston,027,Worcester,3,2,CMRPC,Central Mass,Central Mass: North,WRTA,Extended,Adjacent community,Developing Suburbs,DS: Maturing New England Towns,No,NA
 322,2502375260,West Bridgewater,023,Plymouth,5,5,OCPC,Old Colony,Old Colony: Lower Population,BAT,Extended,Adjacent small town,Developing Suburbs,DS: Maturing New England Towns,No,NA
 323,2502775400,West Brookfield,027,Worcester,2,2,CMRPC,Central Mass,Central Mass: West,WRTA,Not MBTA,NA,Developing Suburbs,DS: Country Suburbs,No,NA
-324,2500977150,West Newbury,009,Essex,4,3,MVPC,Merrimack Valley,Merrimack Valley: 2,MVRTA,Extended,Adjacent small town,Developing Suburbs,DS: Country Suburbs,No,NA
+324,2500977150,West Newbury,009,Essex,4,3,MVPC,Merrimack Valley,Merrimack Valley: 2,MeVa,Extended,Adjacent small town,Developing Suburbs,DS: Country Suburbs,No,NA
 325,2501377890,West Springfield,013,Hampden,2,1,PVPC,Pioneer Valley,Pioneer Valley: 2,PVTA,Not MBTA,NA,Regional Urban Centers,RUC: Sub-RUC,No,NA
-326,2500377990,West Stockbridge,003,Berkshire,1,1,BCRPC,Berkshire,Berkshire: Southwest,None,Not MBTA,NA,Rural Towns,Rural Towns,No,NA
+326,2500377990,West Stockbridge,003,Berkshire,1,1,BCRPC,Berkshire,Berkshire: Southwest,BRTA,Not MBTA,NA,Rural Towns,Rural Towns,No,NA
 327,2500778235,West Tisbury,007,Dukes,5,5,MVC,Martha's Vineyard,Martha's Vineyard: MV,VTA,Not MBTA,NA,Rural Towns,Rural Towns,No,NA
 328,2502775015,Westborough,027,Worcester,3,2,CMRPC,Central Mass,Central Mass: Northeast,WRTA,Extended,Commuter Rail,Developing Suburbs,DS: Maturing New England Towns,No,NA
 329,2501376030,Westfield,013,Hampden,2,1,PVPC,Pioneer Valley,Pioneer Valley: 2,PVTA,Not MBTA,NA,Regional Urban Centers,RUC: Sub-RUC,Gateway,NA
