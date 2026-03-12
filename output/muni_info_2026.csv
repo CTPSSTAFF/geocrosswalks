@@ -354,24 +354,24 @@ TOWNID,GEOID,TOWN,COUNTY_NUM,COUNTY_NAME,MASSDOT_DISTRICT,EMS_REGION,RPA,MPO,MPO
 349,2501582175,Worthington,,Hampshire,1,1,PVPC,Pioneer Valley,Pioneer Valley: 5,FRTA,Not MBTA,NA,Rural Towns,Rural Towns,No,NA
 350,2502182315,Wrentham,,Norfolk,5,4,MAPC,Boston Region,Boston Region: SWAP,GATRA,Extended,Adjacent community,Developing Suburbs,DS: Country Suburbs,No,NA
 351,2500182525,Yarmouth,,Barnstable,5,5,CCC,Cape Cod,Cape Cod: Mid Cape,CCRTA,Not MBTA,NA,Maturing Suburbs,MS: Established Suburbs and Cape Cod Towns,No,NA
-101,2.5E+09,Franklin,,Norfolk,3,2,MAPC,Boston Region,Boston Region: SWAP,GATRA,Extended,Commuter Rail,Developing Suburbs,DS: Maturing New England Towns,No,Added from IPUMS
-101,2.5E+09,Franklin,,Norfolk,3,2,MAPC,Boston Region,Boston Region: SWAP,GATRA,Extended,Commuter Rail,Developing Suburbs,DS: Maturing New England Towns,No,Added from IPUMS
-40,2.5E+09,Braintree,,Norfolk,6,4,MAPC,Boston Region,Boston Region: SSC,None (MBTA),Core (51),Rapid Transit,Maturing Suburbs,MS: Mature Suburban Towns,No,Added from IPUMS
-42,2.5E+09,Bridgewater,,Plymouth,5,5,OCPC,Old Colony,Old Colony: Higher Population,BAT,Extended,Commuter Rail,Developing Suburbs,DS: Maturing New England Towns,No,Added from IPUMS
-100,2.5E+09,Framingham,,Middlesex,3,4,MAPC,Boston Region,Boston Region: MetroWest,MWRTA,Core (51),Commuter Rail,Regional Urban Centers,RUC: Sub-RUC,No,Added from IPUMS
-166,2.5E+09,Manchester-by-the-Sea,,Essex,4,3,MAPC,Boston Region,Boston Region: NSTF,CATA,Core (51),Commuter Rail,Developing Suburbs,DS: Maturing New England Towns,No,Added from IPUMS
-211,2.5E+09,North Attleborough,,Bristol,5,5,SRPEDD,Southeast Mass,Southeast Mass: Bristol,GATRA,Extended,Adjacent community,Developing Suburbs,DS: Maturing New England Towns,No,Added from IPUMS
-244,2.5E+09,Randolph,,Norfolk,6,5,MAPC,Boston Region,Boston Region: TRIC,None (MBTA),Core (51),Commuter Rail,Maturing Suburbs,MS: Mature Suburban Towns,No,Added from IPUMS
-336,2.5E+09,Weymouth,,Norfolk,6,4,MAPC,Boston Region,Boston Region: SSC,None (MBTA),Core (51),Commuter Rail,Maturing Suburbs,MS: Mature Suburban Towns,No,Added from IPUMS
-346,2.5E+09,Winthrop,,Suffolk,6,4,MAPC,Boston Region,Boston Region: ICC,None (MBTA),Core (51),Adjacent community,Inner Core,IC: Streetcar Suburbs,No,Added from IPUMS
-20,2.5E+09,Barnstable,,Barnstable,5,5,CCC,Cape Cod,Cape Cod: Mid Cape,CCRTA,Not MBTA,NA,Maturing Suburbs,MS: Established Suburbs and Cape Cod Towns,Gateway,Added from IPUMS
-104,2.5E+09,Aquinnah,,Dukes,5,5,MVC,Martha's Vineyard,Martha's Vineyard: MV,VTA,Not MBTA,NA,Rural Towns,Rural Towns,No,Added from IPUMS
-114,2.5E+09,Greenfield,,Franklin,2,1,FCPD,Franklin,Franklin: Greenfield,FRTA,Not MBTA,NA,Developing Suburbs,DS: Maturing New England Towns,No,Added from IPUMS
-5,2.5E+09,Agawam,,Hampden,2,1,PVPC,Pioneer Valley,Pioneer Valley: 2,PVTA,Not MBTA,NA,Developing Suburbs,DS: Maturing New England Towns,No,Added from IPUMS
-227,2.5E+09,Palmer,,Hampden,2,1,PVPC,Pioneer Valley,Pioneer Valley: 4,PVTA,Not MBTA,NA,Developing Suburbs,DS: Maturing New England Towns,No,Added from IPUMS
-325,2.5E+09,West Springfield,,Hampden,2,1,PVPC,Pioneer Valley,Pioneer Valley: 2,PVTA,Not MBTA,NA,Regional Urban Centers,RUC: Sub-RUC,No,Added from IPUMS
-8,2.5E+09,Amherst,,Hampshire,2,1,PVPC,Pioneer Valley,Pioneer Valley: 3,PVTA,Not MBTA,NA,Regional Urban Centers,RUC: Sub-RUC,No,Added from IPUMS
-87,2.5E+09,Easthampton,,Hampshire,2,1,PVPC,Pioneer Valley,Pioneer Valley: 3,PVTA,Not MBTA,NA,Regional Urban Centers,RUC: Sub-RUC,No,Added from IPUMS
-278,2.5E+09,Southbridge,,Worcester,3,2,CMRPC,Central Mass,Central Mass: Southwest,WRTA,Not MBTA,NA,Regional Urban Centers,RUC: Sub-RUC,No,Added from IPUMS
-5,2.5E+09,Agawam,,Hampden,2,1,PVPC,Pioneer Valley,Pioneer Valley: 2,PVTA,Not MBTA,NA,Developing Suburbs,DS: Maturing New England Towns,No,Added from IPUMS
-114,2.5E+09,Greenfield,,Franklin,2,1,FCPD,Franklin,Franklin: Greenfield,FRTA,Not MBTA,NA,Developing Suburbs,DS: Maturing New England Towns,No,Added from IPUMS
+101,2502125100,Franklin,,Norfolk,3,2,MAPC,Boston Region,Boston Region: SWAP,GATRA,Extended,Commuter Rail,Developing Suburbs,DS: Maturing New England Towns,No,Added from IPUMS
+101,2502125065,Franklin,,Norfolk,3,2,MAPC,Boston Region,Boston Region: SWAP,GATRA,Extended,Commuter Rail,Developing Suburbs,DS: Maturing New England Towns,No,Added from IPUMS
+40,2502107665,Braintree,,Norfolk,6,4,MAPC,Boston Region,Boston Region: SSC,None (MBTA),Core (51),Rapid Transit,Maturing Suburbs,MS: Mature Suburban Towns,No,Added from IPUMS
+42,2502308085,Bridgewater,,Plymouth,5,5,OCPC,Old Colony,Old Colony: Higher Population,BAT,Extended,Commuter Rail,Developing Suburbs,DS: Maturing New England Towns,No,Added from IPUMS
+100,2501724925,Framingham,,Middlesex,3,4,MAPC,Boston Region,Boston Region: MetroWest,MWRTA,Core (51),Commuter Rail,Regional Urban Centers,RUC: Sub-RUC,No,Added from IPUMS
+166,2500937945,Manchester-by-the-Sea,,Essex,4,3,MAPC,Boston Region,Boston Region: NSTF,CATA,Core (51),Commuter Rail,Developing Suburbs,DS: Maturing New England Towns,No,Added from IPUMS
+211,2500546575,North Attleborough,,Bristol,5,5,SRPEDD,Southeast Mass,Southeast Mass: Bristol,GATRA,Extended,Adjacent community,Developing Suburbs,DS: Maturing New England Towns,No,Added from IPUMS
+244,2502155955,Randolph,,Norfolk,6,5,MAPC,Boston Region,Boston Region: TRIC,None (MBTA),Core (51),Commuter Rail,Maturing Suburbs,MS: Mature Suburban Towns,No,Added from IPUMS
+336,2502178865,Weymouth,,Norfolk,6,4,MAPC,Boston Region,Boston Region: SSC,None (MBTA),Core (51),Commuter Rail,Maturing Suburbs,MS: Mature Suburban Towns,No,Added from IPUMS
+346,2502580930,Winthrop,,Suffolk,6,4,MAPC,Boston Region,Boston Region: ICC,None (MBTA),Core (51),Adjacent community,Inner Core,IC: Streetcar Suburbs,No,Added from IPUMS
+20,2500103635,Barnstable,,Barnstable,5,5,CCC,Cape Cod,Cape Cod: Mid Cape,CCRTA,Not MBTA,NA,Maturing Suburbs,MS: Established Suburbs and Cape Cod Towns,Gateway,Added from IPUMS
+104,2500725555,Aquinnah,,Dukes,5,5,MVC,Martha's Vineyard,Martha's Vineyard: MV,VTA,Not MBTA,NA,Rural Towns,Rural Towns,No,Added from IPUMS
+114,2501127025,Greenfield,,Franklin,2,1,FCPD,Franklin,Franklin: Greenfield,FRTA,Not MBTA,NA,Developing Suburbs,DS: Maturing New England Towns,No,Added from IPUMS
+5,2501300800,Agawam,,Hampden,2,1,PVPC,Pioneer Valley,Pioneer Valley: 2,PVTA,Not MBTA,NA,Developing Suburbs,DS: Maturing New England Towns,No,Added from IPUMS
+227,2501352105,Palmer,,Hampden,2,1,PVPC,Pioneer Valley,Pioneer Valley: 4,PVTA,Not MBTA,NA,Developing Suburbs,DS: Maturing New England Towns,No,Added from IPUMS
+325,2501377850,West Springfield,,Hampden,2,1,PVPC,Pioneer Valley,Pioneer Valley: 2,PVTA,Not MBTA,NA,Regional Urban Centers,RUC: Sub-RUC,No,Added from IPUMS
+8,2501501325,Amherst,,Hampshire,2,1,PVPC,Pioneer Valley,Pioneer Valley: 3,PVTA,Not MBTA,NA,Regional Urban Centers,RUC: Sub-RUC,No,Added from IPUMS
+87,2501519330,Easthampton,,Hampshire,2,1,PVPC,Pioneer Valley,Pioneer Valley: 3,PVTA,Not MBTA,NA,Regional Urban Centers,RUC: Sub-RUC,No,Added from IPUMS
+278,2502763270,Southbridge,,Worcester,3,2,CMRPC,Central Mass,Central Mass: Southwest,WRTA,Not MBTA,NA,Regional Urban Centers,RUC: Sub-RUC,No,Added from IPUMS
+5,2501300765,Agawam,,Hampden,2,1,PVPC,Pioneer Valley,Pioneer Valley: 2,PVTA,Not MBTA,NA,Developing Suburbs,DS: Maturing New England Towns,No,Added from IPUMS
+114,2501127100,Greenfield,,Franklin,2,1,FCPD,Franklin,Franklin: Greenfield,FRTA,Not MBTA,NA,Developing Suburbs,DS: Maturing New England Towns,No,Added from IPUMS
